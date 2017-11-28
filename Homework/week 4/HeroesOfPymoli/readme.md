@@ -114,21 +114,59 @@ player_count
 ```python
 #Purchasing Analysis
 unique_items = len(df['Item Name'].unique())
-avg_purchase_price = df['Price'].mean()
+avg_purchase_price = round(df['Price'].mean(),2)
 total_purchases = df['Item ID'].count()
-total_revenue = df['Price'].sum()
+total_revenue = round(df['Price'].sum(),2)
 
 
-print('Number of unique items are ' + str(unique_items))
-print('The average purchase price is ' + '$' + str(avg_purchase_price))
-print('Number of purchases are ' + str(total_purchases))
-print('The total value is ' + '$' + str(total_revenue))
+df_purchase = pd.DataFrame({'Unique Items':unique_items,
+             'Average Purchase Price':avg_purchase_price,
+             'Total Purchases':total_purchases,
+             'Total Value':[total_revenue]})
+
+df_purchase = df_purchase[['Unique Items','Average Purchase Price','Total Purchases','Total Value']]
+df_purchase
 ```
 
-    Number of unique items are 180
-    The average purchase price is $2.9305710955710915
-    Number of purchases are 858
-    The total value is $2514.4299999999967
+
+
+
+<div>
+<style>
+    .dataframe thead tr:only-child th {
+        text-align: right;
+    }
+
+    .dataframe thead th {
+        text-align: left;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Unique Items</th>
+      <th>Average Purchase Price</th>
+      <th>Total Purchases</th>
+      <th>Total Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>180</td>
+      <td>2.93</td>
+      <td>858</td>
+      <td>2514.43</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 
@@ -654,17 +692,11 @@ df_item_profit.head(5)
 ```python
 print('Purchasing Analysis')
 print('----------------------------')
-print('Number of unique items are ' + str(unique_items))
-print('The average purchase price is ' + '$' + str(avg_purchase_price))
-print('Number of purchases are ' + str(total_purchases))
-print('The total value is ' + '$' + str(total_revenue))
+print(df_purchase)
 print('----------------------------')
 print('Gender Demographics')
 print('----------------------------')
-print('The male count is ' + str(male_count))
-print('The female count is ' + str(female_count))
-print('The male percentage is ' + str(male_percent) + '%')
-print('The female percentage is ' + str(female_percent) + '%')
+print(df_gender_demo)
 print('----------------------------')
 print('Purchasing Analysis by Gender')
 print('----------------------------')
@@ -690,17 +722,16 @@ print(df_item_profit.head(5))
 
     Purchasing Analysis
     ----------------------------
-    Number of unique items are 180
-    The average purchase price is $2.9305710955710915
-    Number of purchases are 858
-    The total value is $2514.4299999999967
+       Unique Items  Average Purchase Price  Total Purchases  Total Value
+    0           180                    2.93              858      2514.43
     ----------------------------
     Gender Demographics
     ----------------------------
-    The male count is 498
-    The female count is 112
-    The male percentage is 81%
-    The female percentage is 18%
+                           Purchasers Count Percent
+    Gender                                         
+    Female                              112  18.30%
+    Male                                498  81.37%
+    Other / Non-Disclosed                 9   1.47%
     ----------------------------
     Purchasing Analysis by Gender
     ----------------------------
