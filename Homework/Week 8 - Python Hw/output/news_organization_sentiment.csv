@@ -1,0 +1,547 @@
+,timestamp,source,tweets ago,tweet text,compound score,positive score,negative score,neutral score
+0,Sat Jan 20 18:59:56 +0000 2018,@BBCworld,0,Why is Turkey attacking Syria? https://t.co/UWNSU6LpBx,-0.4588,0.0,0.375,0.625
+1,Sat Jan 20 18:46:41 +0000 2018,@BBCworld,1,"At the beginning of Donald Trump's presidency, there was concern over his potential conflicts of interest as presid… https://t.co/AkdMzDZxSK",0.1027,0.133,0.115,0.752
+2,Sat Jan 20 18:15:46 +0000 2018,@BBCworld,2,The Brazilian man who lives in a sandcastle https://t.co/3qhGDqAPqk,0.0,0.0,0.0,1.0
+3,Sat Jan 20 17:42:16 +0000 2018,@BBCworld,3,Football president George Weah puts Liberian army to the test https://t.co/RizGdiNWuo,0.0,0.0,0.0,1.0
+4,Sat Jan 20 17:24:17 +0000 2018,@BBCworld,4,Gunmen 'attacking major Kabul hotel' https://t.co/5hMWar4rzM,-0.4588,0.0,0.375,0.625
+5,Sat Jan 20 16:08:05 +0000 2018,@BBCworld,5,India police 'failed to help injured teenagers' https://t.co/Tuu7HBGMWv,-0.5106,0.197,0.438,0.365
+6,Sat Jan 20 16:04:22 +0000 2018,@BBCworld,6,The Brazilian man who lives in a sandcastle https://t.co/vGI7oUfZl4,0.0,0.0,0.0,1.0
+7,Sat Jan 20 14:13:12 +0000 2018,@BBCworld,7,"RT @BBCSteveR: A pro-Kremlin paper today reports that real incomes in Russia have fallen &amp; that ""people continue to skimp on almost everyth…",-0.3612,0.0,0.106,0.894
+8,Sat Jan 20 13:51:40 +0000 2018,@BBCworld,8,Nigeria: Kidnapped US and Canadian citizens freed https://t.co/dZzRGB62J5,0.4019,0.278,0.0,0.722
+9,Sat Jan 20 13:45:00 +0000 2018,@BBCworld,9,Syria: Turkey ground operation in Afrin begins 'de facto' https://t.co/w058FNSZ76,0.0,0.0,0.0,1.0
+10,Sat Jan 20 13:34:21 +0000 2018,@BBCworld,10,Australian Open: Roger Federer and Novak Djokovic into fourth round https://t.co/94lbTR21jQ,0.0,0.0,0.0,1.0
+11,Sat Jan 20 13:30:49 +0000 2018,@BBCworld,11,Top French chef Paul Bocuse dies at 91 https://t.co/78dZtU3V4v,0.2023,0.184,0.0,0.816
+12,Sat Jan 20 13:20:19 +0000 2018,@BBCworld,12,US shutdown: Trump and Democrats blame each other https://t.co/PavJjbsiCs,-0.34,0.0,0.231,0.769
+13,Sat Jan 20 13:02:23 +0000 2018,@BBCworld,13,Why Italians are saying 'No' to takeaway coffee https://t.co/KA2KSf7lzZ,0.0,0.0,0.0,1.0
+14,Sat Jan 20 12:38:41 +0000 2018,@BBCworld,14,Pope sends gift to police woman thrown from horse https://t.co/iGCmCfdqX2,0.4404,0.244,0.0,0.756
+15,Sat Jan 20 12:34:10 +0000 2018,@BBCworld,15,Winter Olympics 2018: North Korea will send 22 athletes to Pyeongchang https://t.co/YdmSfiH46g,0.0,0.0,0.0,1.0
+16,Sat Jan 20 12:08:33 +0000 2018,@BBCworld,16,RT @BBCOS: You might have seen Cindy Garcia and her family in a viral video. After living in the US for 30 years Cindy's husband Jorge was…,0.0,0.0,0.0,1.0
+17,Sat Jan 20 12:03:24 +0000 2018,@BBCworld,17,Syria conflict: 15 refugees found frozen to death https://t.co/OdunaDREzJ,-0.7351,0.0,0.47,0.53
+18,Sat Jan 20 11:22:42 +0000 2018,@BBCworld,18,Pad Man: A man's 'period poverty' rescue becomes a film https://t.co/QgJEtrdtTh,0.0,0.243,0.243,0.515
+19,Sat Jan 20 11:18:01 +0000 2018,@BBCworld,19,"What is Trumpism?
+
+https://t.co/Ks53fkoyoW",0.0,0.0,0.0,1.0
+20,Sat Jan 20 18:59:56 +0000 2018,@BBCworld,20,Why is Turkey attacking Syria? https://t.co/UWNSU6LpBx,-0.4588,0.0,0.375,0.625
+21,Sat Jan 20 18:46:41 +0000 2018,@BBCworld,21,"At the beginning of Donald Trump's presidency, there was concern over his potential conflicts of interest as presid… https://t.co/AkdMzDZxSK",0.1027,0.133,0.115,0.752
+22,Sat Jan 20 18:15:46 +0000 2018,@BBCworld,22,The Brazilian man who lives in a sandcastle https://t.co/3qhGDqAPqk,0.0,0.0,0.0,1.0
+23,Sat Jan 20 17:42:16 +0000 2018,@BBCworld,23,Football president George Weah puts Liberian army to the test https://t.co/RizGdiNWuo,0.0,0.0,0.0,1.0
+24,Sat Jan 20 17:24:17 +0000 2018,@BBCworld,24,Gunmen 'attacking major Kabul hotel' https://t.co/5hMWar4rzM,-0.4588,0.0,0.375,0.625
+25,Sat Jan 20 16:08:05 +0000 2018,@BBCworld,25,India police 'failed to help injured teenagers' https://t.co/Tuu7HBGMWv,-0.5106,0.197,0.438,0.365
+26,Sat Jan 20 16:04:22 +0000 2018,@BBCworld,26,The Brazilian man who lives in a sandcastle https://t.co/vGI7oUfZl4,0.0,0.0,0.0,1.0
+27,Sat Jan 20 14:13:12 +0000 2018,@BBCworld,27,"RT @BBCSteveR: A pro-Kremlin paper today reports that real incomes in Russia have fallen &amp; that ""people continue to skimp on almost everyth…",-0.3612,0.0,0.106,0.894
+28,Sat Jan 20 13:51:40 +0000 2018,@BBCworld,28,Nigeria: Kidnapped US and Canadian citizens freed https://t.co/dZzRGB62J5,0.4019,0.278,0.0,0.722
+29,Sat Jan 20 13:45:00 +0000 2018,@BBCworld,29,Syria: Turkey ground operation in Afrin begins 'de facto' https://t.co/w058FNSZ76,0.0,0.0,0.0,1.0
+30,Sat Jan 20 13:34:21 +0000 2018,@BBCworld,30,Australian Open: Roger Federer and Novak Djokovic into fourth round https://t.co/94lbTR21jQ,0.0,0.0,0.0,1.0
+31,Sat Jan 20 13:30:49 +0000 2018,@BBCworld,31,Top French chef Paul Bocuse dies at 91 https://t.co/78dZtU3V4v,0.2023,0.184,0.0,0.816
+32,Sat Jan 20 13:20:19 +0000 2018,@BBCworld,32,US shutdown: Trump and Democrats blame each other https://t.co/PavJjbsiCs,-0.34,0.0,0.231,0.769
+33,Sat Jan 20 13:02:23 +0000 2018,@BBCworld,33,Why Italians are saying 'No' to takeaway coffee https://t.co/KA2KSf7lzZ,0.0,0.0,0.0,1.0
+34,Sat Jan 20 12:38:41 +0000 2018,@BBCworld,34,Pope sends gift to police woman thrown from horse https://t.co/iGCmCfdqX2,0.4404,0.244,0.0,0.756
+35,Sat Jan 20 12:34:10 +0000 2018,@BBCworld,35,Winter Olympics 2018: North Korea will send 22 athletes to Pyeongchang https://t.co/YdmSfiH46g,0.0,0.0,0.0,1.0
+36,Sat Jan 20 12:08:33 +0000 2018,@BBCworld,36,RT @BBCOS: You might have seen Cindy Garcia and her family in a viral video. After living in the US for 30 years Cindy's husband Jorge was…,0.0,0.0,0.0,1.0
+37,Sat Jan 20 12:03:24 +0000 2018,@BBCworld,37,Syria conflict: 15 refugees found frozen to death https://t.co/OdunaDREzJ,-0.7351,0.0,0.47,0.53
+38,Sat Jan 20 11:22:42 +0000 2018,@BBCworld,38,Pad Man: A man's 'period poverty' rescue becomes a film https://t.co/QgJEtrdtTh,0.0,0.243,0.243,0.515
+39,Sat Jan 20 11:18:01 +0000 2018,@BBCworld,39,"What is Trumpism?
+
+https://t.co/Ks53fkoyoW",0.0,0.0,0.0,1.0
+40,Sat Jan 20 10:49:46 +0000 2018,@BBCworld,40,Turkey bus crash: Eleven killed in motorway accident https://t.co/34TTJzTVGD,-0.8834,0.0,0.632,0.368
+41,Sat Jan 20 10:25:55 +0000 2018,@BBCworld,41,The Silent Child: The deaf six-year-old actress hoping for an Oscar https://t.co/QsV9RpEI5C,0.4215,0.203,0.0,0.797
+42,Sat Jan 20 09:52:39 +0000 2018,@BBCworld,42,"RT @bbctennis: Kerber! 👏
+
+She knocks Maria Sharapova out of the #AusOpen with a 6-1, 6-3 win!
+
+🎾📻https://t.co/3kH48yOnmR #bbctennis https:/…",0.658,0.205,0.0,0.795
+43,Sat Jan 20 09:05:16 +0000 2018,@BBCworld,43,Asian wildlife trafficking 'kingpin' Boonchai Bach arrested https://t.co/VzAOSaie6m,-0.4767,0.0,0.307,0.693
+44,Sat Jan 20 08:40:03 +0000 2018,@BBCworld,44,US government begins shutting down many of its services after Senate fails to agree on new budget… https://t.co/iFNARt8uyK,-0.0772,0.117,0.131,0.751
+45,Sat Jan 20 08:36:20 +0000 2018,@BBCworld,45,"RT @BBCSport: Christian Coleman has broken the 60m indoor world record.
+
+It was 17 years old ⚡
+
+More: https://t.co/MioIoFQoom https://t.co/…",-0.4767,0.0,0.147,0.853
+46,Sat Jan 20 05:06:27 +0000 2018,@BBCworld,46,US shutdown begins as Senate fails to pass new budget https://t.co/NUe0i4f46p,-0.4215,0.0,0.219,0.781
+47,Sat Jan 20 02:21:03 +0000 2018,@BBCworld,47,Huge Brazil rubbish dump closes after six decades https://t.co/RVDtR0mCzR,-0.0772,0.193,0.218,0.588
+48,Sat Jan 20 01:17:30 +0000 2018,@BBCworld,48,Lac-Megantic: The runaway train that destroyed a town https://t.co/hNo7Bk0qBe,-0.4939,0.0,0.314,0.686
+49,Sat Jan 20 01:17:27 +0000 2018,@BBCworld,49,How can parents torture their children? https://t.co/basHomJMGs,-0.5994,0.0,0.394,0.606
+50,Sat Jan 20 01:13:42 +0000 2018,@BBCworld,50,US musician Tom Petty died of 'accidental drug overdose' https://t.co/Kpb5OtIgsF,-0.6908,0.0,0.489,0.511
+51,Sat Jan 20 01:03:03 +0000 2018,@BBCworld,51,"Donald Trump won 42% of the female vote in the 2016 US election.
+Now, the president's approval rating among women i… https://t.co/PNVpQ5CanB",0.7783,0.254,0.0,0.746
+52,Sat Jan 20 00:29:13 +0000 2018,@BBCworld,52,New Zealand debates access to dead sea life footage https://t.co/ib2vOSeJUO,-0.6486,0.0,0.323,0.677
+53,Sat Jan 20 00:22:18 +0000 2018,@BBCworld,53,France: Emmanuel Macron’s marvellous manoeuvres this week https://t.co/zxKptoiHqL,0.0,0.0,0.0,1.0
+54,Sat Jan 20 00:20:01 +0000 2018,@BBCworld,54,"Is the Women's March from 2017 the same marches we'll see in 2018? 
+What's happened to the movement in one year?… https://t.co/tKXhOii3CV",0.0,0.0,0.0,1.0
+55,Fri Jan 19 22:47:47 +0000 2018,@BBCworld,55,Trump travel ban: Supreme Court to rule on legality https://t.co/8V753mcJQQ,0.0,0.237,0.237,0.526
+56,Fri Jan 19 22:28:55 +0000 2018,@BBCworld,56,Trump vows abortion opposition in speech to March for Life https://t.co/yHyNjK2hf1,0.0,0.0,0.0,1.0
+57,Fri Jan 19 22:03:52 +0000 2018,@BBCworld,57,The Bollywood film breaking the taboo around periods https://t.co/04DR0Rug4L,0.0,0.0,0.0,1.0
+58,Fri Jan 19 22:03:36 +0000 2018,@BBCworld,58,"Women's march: Where, when and why will protests happen? https://t.co/FXcNhFEvHZ",-0.2263,0.0,0.174,0.826
+59,Fri Jan 19 22:00:39 +0000 2018,@BBCworld,59,The man risking his life to save pink dolphins https://t.co/zdJMMOoD8C,0.2263,0.237,0.17,0.593
+60,Fri Jan 19 21:56:39 +0000 2018,@BBCworld,60,Pope sends gift to woman thrown from horse https://t.co/PXXWmAKwyG,0.4404,0.266,0.0,0.734
+61,Fri Jan 19 21:47:51 +0000 2018,@BBCworld,61,"Pope sends gift to woman thrown from horse 
+https://t.co/FWBPiGLfvR",0.4404,0.266,0.0,0.734
+62,Fri Jan 19 21:46:43 +0000 2018,@BBCworld,62,Pope Francis warns of threat to Amazon peoples on Peru visit https://t.co/ur6uErJKUK,-0.4767,0.11,0.31,0.581
+63,Fri Jan 19 21:04:26 +0000 2018,@BBCworld,63,"Colombia says 550,000 Venezuelans have fled to the country https://t.co/GM8VDGnf52",0.0,0.0,0.0,1.0
+64,Fri Jan 19 20:36:50 +0000 2018,@BBCworld,64,Las Vegas shooting: Police say gunman's girlfriend won't face charges https://t.co/QvLkmUuh0h,0.2057,0.154,0.0,0.846
+65,Fri Jan 19 20:34:31 +0000 2018,@BBCworld,65,"RT @BBCNewsNI: Irish Prime Minister Leo Varadkar said he expected the wording of the referendum on the 8th amendment to be made public ""in…",0.0,0.0,0.0,1.0
+66,Fri Jan 19 20:02:55 +0000 2018,@BBCworld,66,Chicago West: Kim Kardashian West and Kanye West name daughter https://t.co/FdDrs1ITZm,0.0,0.0,0.0,1.0
+67,Fri Jan 19 19:53:38 +0000 2018,@BBCworld,67,"The future of high-speed travel? 
+
+https://t.co/Q3OOnLvX5H https://t.co/wmHAZGnYlU",0.0,0.0,0.0,1.0
+68,Fri Jan 19 19:53:12 +0000 2018,@BBCworld,68,Workers cleared over Canada rail disaster https://t.co/kt8TNzdhIw,-0.5719,0.133,0.39,0.476
+69,Fri Jan 19 19:38:30 +0000 2018,@BBCworld,69,RT @BBCNorthAmerica: Las Vegas shooting: Police say gunman's girlfriend won't face charges https://t.co/YhKvAFI58n,0.2057,0.131,0.0,0.869
+70,Fri Jan 19 19:02:22 +0000 2018,@BBCworld,70,Larry Nassar case: Olympic champ Jordyn Wieber reveals abuse https://t.co/brtAkm1l3p,-0.2732,0.203,0.275,0.523
+71,Fri Jan 19 18:58:26 +0000 2018,@BBCworld,71,Gold medallists Aly Raisman and Jordyn Wieber face abuser https://t.co/uvJFwHxs0J,-0.5574,0.0,0.286,0.714
+72,Fri Jan 19 17:37:23 +0000 2018,@BBCworld,72,Philippines stops sending workers to Kuwait over abuse fears https://t.co/VukKEG4kaT,-0.8225,0.0,0.551,0.449
+73,Fri Jan 19 17:14:57 +0000 2018,@BBCworld,73,RT @BBCBusiness: Coca-Cola pledges to recycle all packaging by 2030 https://t.co/pLRSb3fq5f,0.0,0.0,0.0,1.0
+74,Fri Jan 19 16:45:58 +0000 2018,@BBCworld,74,"""I think there are some ironies to point out..."" White House Director of Legislative Affairs, Marc Short, quotes Na… https://t.co/cOQayHgAPo",0.0,0.0,0.0,1.0
+75,Fri Jan 19 16:43:53 +0000 2018,@BBCworld,75,Kenya investigates 'sex attacks' on new mothers at hospital https://t.co/o34HhYr9KN,-0.4404,0.0,0.244,0.756
+76,Fri Jan 19 16:34:41 +0000 2018,@BBCworld,76,"""It is frustrating to all of us that we are in this position,"" says White House Director of Legislative Affairs, as… https://t.co/MABEGfFkXK",-0.4404,0.0,0.121,0.879
+77,Fri Jan 19 16:27:42 +0000 2018,@BBCworld,77,Czech PM Andrej Babis stripped of immunity amid fraud claims https://t.co/aOFJuOaVl7,-0.5859,0.0,0.275,0.725
+78,Fri Jan 19 16:15:37 +0000 2018,@BBCworld,78,Nasa removes US astronaut from ISS mission https://t.co/DO5fyKQPbW,0.0,0.0,0.0,1.0
+79,Fri Jan 19 15:59:50 +0000 2018,@BBCworld,79,Mattis: US national security focus no longer terrorism https://t.co/9hwgWHnlW5,-0.6597,0.158,0.447,0.395
+80,Fri Jan 19 15:32:04 +0000 2018,@BBCworld,80,Russian President Vladimir Putin plunges into icy water to mark Epiphany https://t.co/yinB6Bag8P,0.0,0.0,0.0,1.0
+81,Fri Jan 19 15:14:13 +0000 2018,@BBCworld,81,Russian social media defends air cadets dancing in underwear https://t.co/oH0nDh6vBe,0.0,0.0,0.0,1.0
+82,Fri Jan 19 15:14:13 +0000 2018,@BBCworld,82,Crocodile found in weapons raid https://t.co/wFuchiLgan,-0.4404,0.0,0.367,0.633
+83,Fri Jan 19 14:55:24 +0000 2018,@BBCworld,83,Smiling Macron and May pose for selfie https://t.co/2qp4hFR5Z0,0.4588,0.3,0.0,0.7
+84,Fri Jan 19 14:55:24 +0000 2018,@BBCworld,84,US shutdown: Senate bill on verge of collapse amid rancour https://t.co/JoHC7SHH2S,-0.4939,0.0,0.242,0.758
+85,Fri Jan 19 14:36:51 +0000 2018,@BBCworld,85,"RT @BBCNews: 'Extreme kayaker' sets 128ft waterfall record 😮
+
+Just incredible! https://t.co/5Sy3gbaAAR",0.0,0.0,0.0,1.0
+86,Fri Jan 19 14:11:12 +0000 2018,@BBCworld,86,Data-stealing spyware 'traced to Lebanon' https://t.co/vM3MJE5gz5,0.0,0.0,0.0,1.0
+87,Fri Jan 19 13:26:17 +0000 2018,@BBCworld,87,President Putin takes a dip into icy water https://t.co/vHGdVfKIyQ,0.0,0.0,0.0,1.0
+88,Fri Jan 19 12:59:55 +0000 2018,@BBCworld,88,Turkey steps up Syria shelling as invasion of Afrin looms https://t.co/LcFIAYfxpU,-0.1531,0.0,0.138,0.862
+89,Fri Jan 19 12:34:06 +0000 2018,@BBCworld,89,British 'extreme kayaker' sets 128ft waterfall record https://t.co/tM3tp0G5IB,0.0,0.0,0.0,1.0
+90,Fri Jan 19 11:55:48 +0000 2018,@BBCworld,90,Pope Francis 'slander' comment angers Chile abuse victims https://t.co/FMOymysP23,-0.8689,0.0,0.62,0.38
+91,Fri Jan 19 11:41:59 +0000 2018,@BBCworld,91,Michael Douglas: Former employee accuses actor of sexual harassment https://t.co/SHfYdzNP9F,-0.7096,0.0,0.424,0.576
+92,Fri Jan 19 11:39:58 +0000 2018,@BBCworld,92,"RT @bbctennis: Game set and match 💪
+
+Kyrgios is through to the Aussie Open fourth round after beating Tsonga 7-6 (7-5) 4-6 7-6 (8-6) 7-6 (7…",-0.4588,0.0,0.111,0.889
+93,Fri Jan 19 11:09:43 +0000 2018,@BBCworld,93,Pakistan Zainab murder: DNA suggests suspect in other case was 'innocent' https://t.co/PSqsP3jREa,-0.7845,0.0,0.408,0.592
+94,Fri Jan 19 11:09:43 +0000 2018,@BBCworld,94,Fake-bomb TV crew held at New Jersey airport https://t.co/t17ynz6Ve4,0.0,0.0,0.0,1.0
+95,Fri Jan 19 10:33:43 +0000 2018,@BBCworld,95,Europe storm: Germany in huge clean-up as trains run again https://t.co/J0Dvwj22fU,0.3182,0.187,0.0,0.813
+96,Fri Jan 19 10:30:15 +0000 2018,@BBCworld,96,Yu Wensheng: China human rights lawyer arrested on school run https://t.co/ehmjjn6bW8,-0.4767,0.0,0.237,0.763
+97,Fri Jan 19 10:12:30 +0000 2018,@BBCworld,97,South Korea to reward 'dogparazzi' informers https://t.co/EyIrdIMIGh,0.5719,0.381,0.0,0.619
+98,Fri Jan 19 10:08:38 +0000 2018,@BBCworld,98,Patricia Dagorn: France's 'Black Widow' jailed for poisonings https://t.co/nhamoSrcro,-0.765,0.0,0.485,0.515
+99,Fri Jan 19 09:45:31 +0000 2018,@BBCworld,99,"RT @BBCSteveR: One Russian paper today predicts ""increased repression &amp; isolationism"" in Vladimir Putin's next Kremlin term; another claims…",-0.0258,0.158,0.118,0.724
+100,Sat Jan 20 20:50:01 +0000 2018,@CBSnews,0,"Commentary: Why this is the ""Trump shutdown"" https://t.co/C4R9kFqh4v https://t.co/C4ASgrmOGl",0.0,0.0,0.0,1.0
+101,Sat Jan 20 20:30:37 +0000 2018,@CBSnews,1,"One year after President Trump's inauguration, the #WomensMarch is returning to the streets -- and aiming to become… https://t.co/KWdTINhZk6",0.0,0.0,0.0,1.0
+102,Sat Jan 20 20:14:06 +0000 2018,@CBSnews,2,"""We need more time [to negotiate DACA] and that should not be used to put the country through this shutdown,"" Rep.… https://t.co/54wKUWS3Yu",0.0,0.0,0.0,1.0
+103,Sat Jan 20 20:03:47 +0000 2018,@CBSnews,3,"WATCH LIVE: House Republicans are speaking on Capitol Hill, after OMB Director Mick Mulvaney briefed reporters on t… https://t.co/YVgIzOfajL",0.0,0.0,0.0,1.0
+104,Sat Jan 20 19:51:01 +0000 2018,@CBSnews,4,"Turkish jets bomb Kurdish-controlled city of Afrin in northern Syria, as President Recep Tayyip Erdogan promises to… https://t.co/FZcTR4bcC7",-0.1531,0.119,0.147,0.734
+105,Sat Jan 20 19:40:13 +0000 2018,@CBSnews,5,"""In 2013 we were being asked to vote for something that we did not like,” Mick Mulvaney says. “We have a funding bi… https://t.co/hvOOvgrmBb",0.0,0.0,0.0,1.0
+106,Sat Jan 20 19:33:33 +0000 2018,@CBSnews,6,"""We are taking Davos, both from the president's perspective and the cabinet's perspective, on a day-by-day basis,""… https://t.co/TgHt01afdf",0.0,0.0,0.0,1.0
+107,Sat Jan 20 19:31:14 +0000 2018,@CBSnews,7,"""Mr. Schumer is going to have to up his game a little bit and be more honest with the president of the United State… https://t.co/9bvu695hoM",0.7501,0.225,0.0,0.775
+108,Sat Jan 20 19:26:49 +0000 2018,@CBSnews,8,"""Early this morning, federal workers got notices from their various agencies as to whether they were exempt or furl… https://t.co/FLQadxn7X9",0.1027,0.069,0.0,0.931
+109,Sat Jan 20 19:24:26 +0000 2018,@CBSnews,9,"""We continue to remain anxious to reach a deal on DACA, and we look forward to resuming those negotiations as soon… https://t.co/bM4MtdIMMX",-0.2263,0.05,0.09,0.86
+110,Sat Jan 20 19:21:11 +0000 2018,@CBSnews,10,WATCH LIVE: White House officials hold a press briefing to give an update on the government shutdown… https://t.co/h8stKSKayV,0.0,0.0,0.0,1.0
+111,Sat Jan 20 19:01:01 +0000 2018,@CBSnews,11,"In his first year in office, President Trump proved to be a singular figure, casting aside norms and traditions:… https://t.co/EolX6C5dZ5",0.0,0.0,0.0,1.0
+112,Sat Jan 20 18:41:01 +0000 2018,@CBSnews,12,"UPDATE: A group of gunmen have launched an attack on the Intercontinental Hotel in Kabul, authorities say; kitchen… https://t.co/kGCgYEFOpc",-0.3818,0.073,0.15,0.777
+113,Sat Jan 20 18:21:55 +0000 2018,@CBSnews,13,"Paul Bocuse, the master chef who defined French cuisine for nearly half a century and put it on tables around the w… https://t.co/3HhPSWGU4b",0.0,0.0,0.0,1.0
+114,Sat Jan 20 18:08:09 +0000 2018,@CBSnews,14,"Sen. Schumer on meetings with Pres. Trump: ""The lunch that seemed so promising was quickly overtaken by hard-right… https://t.co/KTzatzs79T",0.541,0.162,0.0,0.838
+115,Sat Jan 20 18:02:03 +0000 2018,@CBSnews,15,WATCH LIVE: Senate Minority Leader Chuck Schumer holds a press conference amid government shutdown… https://t.co/XGBD5pkqTt,0.0,0.0,0.0,1.0
+116,Sat Jan 20 18:00:01 +0000 2018,@CBSnews,16,"The governor of California once again denies parole for Leslie Van Houten, the youngest follower of Charles Manson… https://t.co/ov9ecXsHeK",-0.4215,0.0,0.135,0.865
+117,Sat Jan 20 17:50:01 +0000 2018,@CBSnews,17,"2 Americans and 2 Canadians who were kidnapped in Nigeria on Tuesday have been freed and are in good condition, pol… https://t.co/xhmL25NrxQ",0.6808,0.237,0.0,0.763
+118,Sat Jan 20 17:40:01 +0000 2018,@CBSnews,18,"DEVELOPING: At least 4 gunmen launched an attack on the Intercontinental Hotel in Kabul, according to Afghan offici… https://t.co/N5iQJqT6By",-0.3818,0.073,0.15,0.777
+119,Sat Jan 20 17:30:06 +0000 2018,@CBSnews,19,Thousands of activists are taking to the streets around the world for the #WomensMarch2018. Here's a look at some o… https://t.co/IwOsLZ8oQt,0.0,0.0,0.0,1.0
+120,Sat Jan 20 20:50:01 +0000 2018,@CBSnews,20,"Commentary: Why this is the ""Trump shutdown"" https://t.co/C4R9kFqh4v https://t.co/C4ASgrmOGl",0.0,0.0,0.0,1.0
+121,Sat Jan 20 20:30:37 +0000 2018,@CBSnews,21,"One year after President Trump's inauguration, the #WomensMarch is returning to the streets -- and aiming to become… https://t.co/KWdTINhZk6",0.0,0.0,0.0,1.0
+122,Sat Jan 20 20:14:06 +0000 2018,@CBSnews,22,"""We need more time [to negotiate DACA] and that should not be used to put the country through this shutdown,"" Rep.… https://t.co/54wKUWS3Yu",0.0,0.0,0.0,1.0
+123,Sat Jan 20 20:03:47 +0000 2018,@CBSnews,23,"WATCH LIVE: House Republicans are speaking on Capitol Hill, after OMB Director Mick Mulvaney briefed reporters on t… https://t.co/YVgIzOfajL",0.0,0.0,0.0,1.0
+124,Sat Jan 20 19:51:01 +0000 2018,@CBSnews,24,"Turkish jets bomb Kurdish-controlled city of Afrin in northern Syria, as President Recep Tayyip Erdogan promises to… https://t.co/FZcTR4bcC7",-0.1531,0.119,0.147,0.734
+125,Sat Jan 20 19:40:13 +0000 2018,@CBSnews,25,"""In 2013 we were being asked to vote for something that we did not like,” Mick Mulvaney says. “We have a funding bi… https://t.co/hvOOvgrmBb",0.0,0.0,0.0,1.0
+126,Sat Jan 20 19:33:33 +0000 2018,@CBSnews,26,"""We are taking Davos, both from the president's perspective and the cabinet's perspective, on a day-by-day basis,""… https://t.co/TgHt01afdf",0.0,0.0,0.0,1.0
+127,Sat Jan 20 19:31:14 +0000 2018,@CBSnews,27,"""Mr. Schumer is going to have to up his game a little bit and be more honest with the president of the United State… https://t.co/9bvu695hoM",0.7501,0.225,0.0,0.775
+128,Sat Jan 20 19:26:49 +0000 2018,@CBSnews,28,"""Early this morning, federal workers got notices from their various agencies as to whether they were exempt or furl… https://t.co/FLQadxn7X9",0.1027,0.069,0.0,0.931
+129,Sat Jan 20 19:24:26 +0000 2018,@CBSnews,29,"""We continue to remain anxious to reach a deal on DACA, and we look forward to resuming those negotiations as soon… https://t.co/bM4MtdIMMX",-0.2263,0.05,0.09,0.86
+130,Sat Jan 20 19:21:11 +0000 2018,@CBSnews,30,WATCH LIVE: White House officials hold a press briefing to give an update on the government shutdown… https://t.co/h8stKSKayV,0.0,0.0,0.0,1.0
+131,Sat Jan 20 19:01:01 +0000 2018,@CBSnews,31,"In his first year in office, President Trump proved to be a singular figure, casting aside norms and traditions:… https://t.co/EolX6C5dZ5",0.0,0.0,0.0,1.0
+132,Sat Jan 20 18:41:01 +0000 2018,@CBSnews,32,"UPDATE: A group of gunmen have launched an attack on the Intercontinental Hotel in Kabul, authorities say; kitchen… https://t.co/kGCgYEFOpc",-0.3818,0.073,0.15,0.777
+133,Sat Jan 20 18:21:55 +0000 2018,@CBSnews,33,"Paul Bocuse, the master chef who defined French cuisine for nearly half a century and put it on tables around the w… https://t.co/3HhPSWGU4b",0.0,0.0,0.0,1.0
+134,Sat Jan 20 18:08:09 +0000 2018,@CBSnews,34,"Sen. Schumer on meetings with Pres. Trump: ""The lunch that seemed so promising was quickly overtaken by hard-right… https://t.co/KTzatzs79T",0.541,0.162,0.0,0.838
+135,Sat Jan 20 18:02:03 +0000 2018,@CBSnews,35,WATCH LIVE: Senate Minority Leader Chuck Schumer holds a press conference amid government shutdown… https://t.co/XGBD5pkqTt,0.0,0.0,0.0,1.0
+136,Sat Jan 20 18:00:01 +0000 2018,@CBSnews,36,"The governor of California once again denies parole for Leslie Van Houten, the youngest follower of Charles Manson… https://t.co/ov9ecXsHeK",-0.4215,0.0,0.135,0.865
+137,Sat Jan 20 17:50:01 +0000 2018,@CBSnews,37,"2 Americans and 2 Canadians who were kidnapped in Nigeria on Tuesday have been freed and are in good condition, pol… https://t.co/xhmL25NrxQ",0.6808,0.237,0.0,0.763
+138,Sat Jan 20 17:40:01 +0000 2018,@CBSnews,38,"DEVELOPING: At least 4 gunmen launched an attack on the Intercontinental Hotel in Kabul, according to Afghan offici… https://t.co/N5iQJqT6By",-0.3818,0.073,0.15,0.777
+139,Sat Jan 20 17:30:06 +0000 2018,@CBSnews,39,Thousands of activists are taking to the streets around the world for the #WomensMarch2018. Here's a look at some o… https://t.co/IwOsLZ8oQt,0.0,0.0,0.0,1.0
+140,Sat Jan 20 17:23:58 +0000 2018,@CBSnews,40,"""Like the president, the House, the bipartisan majority of senators, the American people cannot begin to understand… https://t.co/N3wKxBBZO1",0.3612,0.128,0.0,0.872
+141,Sat Jan 20 17:19:35 +0000 2018,@CBSnews,41,"Senate Majority Leader Mitch McConnell on Democrats: ""These rhetorical gymnastics are simply not persuasive. The Am… https://t.co/O7mSgQhLhS",0.0,0.0,0.0,1.0
+142,Sat Jan 20 17:13:38 +0000 2018,@CBSnews,42,WATCH LIVE: Senate Majority Leader Mitch McConnell speaks on Senate floor amid government shutdown… https://t.co/6ZW0axuzLj,0.0,0.0,0.0,1.0
+143,Sat Jan 20 17:00:03 +0000 2018,@CBSnews,43,"The government shutdown may be the first since 2013 -- but it isn't unheard of
+https://t.co/Tg5r4IkVgy https://t.co/Mt117WTmJj",0.0,0.0,0.0,1.0
+144,Sat Jan 20 16:52:23 +0000 2018,@CBSnews,44,"""Consistently, the strategy of the Republican Party has been to take America hostage and shut down the government,""… https://t.co/hlb86FFEAW",0.4019,0.13,0.0,0.87
+145,Sat Jan 20 16:48:17 +0000 2018,@CBSnews,45,"""The buck stops here. Happy anniversary, Mr. President, your wish came true. You wanted to shut down -- the Trump s… https://t.co/aymfVeFNuP",0.8225,0.319,0.056,0.625
+146,Sat Jan 20 16:44:48 +0000 2018,@CBSnews,46,"President Trump ""promised infrastructure. He gave us a train wreck. He promised to love the 'dreamers' from his hea… https://t.co/l13qhK0HrD",0.743,0.339,0.107,0.554
+147,Sat Jan 20 16:40:01 +0000 2018,@CBSnews,47,The Trump administration plans to gut the drug prevention office by slashing more than $340 million from its budget… https://t.co/nCIZIti9dp,-0.2732,0.0,0.1,0.9
+148,Sat Jan 20 16:39:42 +0000 2018,@CBSnews,48,"""I think the American people smart enough to realize who takes the blame. Republicans control the House, they contr… https://t.co/qDbBbyPnCC",0.0772,0.117,0.104,0.779
+149,Sat Jan 20 16:30:59 +0000 2018,@CBSnews,49,"""Republicans struggled in September to keep government doors open. They struggled in December, and yesterday they f… https://t.co/rZ35ATo4jk",-0.5859,0.0,0.231,0.769
+150,Sat Jan 20 16:27:56 +0000 2018,@CBSnews,50,"WATCH LIVE: House Democratic leadership holds a press conference, just hours after the government shut down at midn… https://t.co/n51vd13VWH",0.0,0.0,0.0,1.0
+151,Sat Jan 20 16:20:44 +0000 2018,@CBSnews,51,"“For the first time, I sense a desire, not only to avoid a shutdown, but to find a solution.” Sen. Lindsey Graham s… https://t.co/QPhqpxDdKb",0.3169,0.155,0.0,0.845
+152,Sat Jan 20 16:00:01 +0000 2018,@CBSnews,52,President Trump took to Twitter Saturday morning to blame Democrats for the government shutdown that began hours ea… https://t.co/XpFmfdunfM,-0.34,0.0,0.118,0.882
+153,Sat Jan 20 15:40:01 +0000 2018,@CBSnews,53,"Vice President Mike Pence arrives in Egypt for security and counterterrorism talks, leaving behind the U.S. governm… https://t.co/oIR3d3ESrc",0.34,0.124,0.0,0.876
+154,Sat Jan 20 15:20:01 +0000 2018,@CBSnews,54,"Activists are returning to the streets this weekend, hoping to create an enduring political movement that will elec… https://t.co/HXsSJUwqcM",0.5994,0.224,0.0,0.776
+155,Sat Jan 20 15:00:33 +0000 2018,@CBSnews,55,"Every January, we hear the word ""Davos"" thrown around economic, environmental and scientific circles. But what does… https://t.co/KRqDBZzDDT",0.0,0.0,0.0,1.0
+156,Sat Jan 20 14:40:01 +0000 2018,@CBSnews,56,22 North Korean athletes will compete in the Pyeongchang Olympics and both Korean teams will march together in the… https://t.co/1yn7msbXDG,0.0,0.0,0.0,1.0
+157,Sat Jan 20 14:20:01 +0000 2018,@CBSnews,57,"The federal government stopped operating at midnight, halting all but essential services. What's closed, who is aff… https://t.co/mpmUES641A",-0.1154,0.0,0.079,0.921
+158,Sat Jan 20 14:03:05 +0000 2018,@CBSnews,58,What is Davos? https://t.co/UTuTRYTD2A https://t.co/rIacFFDoT7,0.0,0.0,0.0,1.0
+159,Sat Jan 20 13:48:06 +0000 2018,@CBSnews,59,"DOJ to re-try Bob Menendez corruption case, complicating his reelection bid https://t.co/b3NDhPjnC6 https://t.co/0NK6uHEQtw",0.0,0.0,0.0,1.0
+160,Sat Jan 20 13:33:05 +0000 2018,@CBSnews,60,"White House lawyer Ty Cobb says ""collusion"" is a term popularized by media https://t.co/4bwoVuZ151 https://t.co/62NXtgJZyr",0.6705,0.314,0.0,0.686
+161,Sat Jan 20 13:18:08 +0000 2018,@CBSnews,61,"""Jersey Shore"" star Mike Sorrentino pleads guilty to tax evasion https://t.co/FzbZCasTGT https://t.co/5ahIuhIgIT",-0.4215,0.0,0.203,0.797
+162,Sat Jan 20 13:03:05 +0000 2018,@CBSnews,62,"Prosecutors to seek death penalty in Chinese scholar's kidnap, killing https://t.co/Ia9OfDpSNg https://t.co/rxu3kxBDd0",-0.9062,0.0,0.557,0.443
+163,Sat Jan 20 12:48:04 +0000 2018,@CBSnews,63,Republicans call for release of memo on alleged surveillance abuses https://t.co/UXapk8eJUe https://t.co/Hd7mT0YFv9,-0.5574,0.0,0.247,0.753
+164,Sat Jan 20 12:33:05 +0000 2018,@CBSnews,64,EPA official says Trump needs plan for climate change threat to Superfund sites https://t.co/kiFKksu9Tz https://t.co/Z5g85tRaZl,-0.5267,0.0,0.195,0.805
+165,Sat Jan 20 12:18:45 +0000 2018,@CBSnews,65,"RT @CBSThisMorning: The White House emphasizes that this is a *partial* shutdown as key federal services including air traffic control, TSA…",0.0,0.0,0.0,1.0
+166,Sat Jan 20 12:18:08 +0000 2018,@CBSnews,66,"Chris Hurst, boyfriend of slain journalist Alison Parker, says bill could have prevented girlfriend's death… https://t.co/UzrOw1rgYo",0.0258,0.068,0.0,0.932
+167,Sat Jan 20 12:09:32 +0000 2018,@CBSnews,67,"RT @CBSThisMorning: The White House was quick to blame democrats for the shutdown, calling it once again a ""Schumer shutdown."" A statement…",-0.34,0.0,0.112,0.888
+168,Sat Jan 20 12:09:03 +0000 2018,@CBSnews,68,RT @CBSThisMorning: Dem. leader Chuck Schumer said he thought he and president Trump made progress on a deal when they met at the White Hou…,0.4215,0.109,0.0,0.891
+169,Sat Jan 20 12:08:55 +0000 2018,@CBSnews,69,RT @CBSThisMorning: The government stopped operating overnight halting all but essential services. This comes after the Senate came ten vot…,-0.1154,0.0,0.071,0.929
+170,Sat Jan 20 12:03:06 +0000 2018,@CBSnews,70,"Julia Mancuso, four-time Olympic medalist, retires from skiing https://t.co/GaABHzZIQH https://t.co/rqq6QtsqZJ",0.0,0.0,0.0,1.0
+171,Sat Jan 20 11:48:05 +0000 2018,@CBSnews,71,How to make the most of your higher take-home pay https://t.co/7egu7mi5AF https://t.co/evduaPjhvD,-0.1027,0.0,0.113,0.887
+172,Sat Jan 20 11:33:05 +0000 2018,@CBSnews,72,Congestion pricing: Driving in Manhattan could soon cost $11.52 https://t.co/X32FGOtQUA https://t.co/Jsa9nOgWI4,0.0,0.0,0.0,1.0
+173,Sat Jan 20 11:18:09 +0000 2018,@CBSnews,73,Flu virus killing more than 100 people per week https://t.co/fKeQFg5a9e https://t.co/koCfBdqoym,-0.7906,0.0,0.438,0.562
+174,Sat Jan 20 11:03:05 +0000 2018,@CBSnews,74,Ex-coal company CEO who went to prison launches Senate bid https://t.co/Y5vLwU44Sz https://t.co/UU9ixg4BN4,-0.5106,0.0,0.231,0.769
+175,Sat Jan 20 10:48:04 +0000 2018,@CBSnews,75,Analysis: VP Mike Pence's Middle East trip meant to highlight evangelical roots https://t.co/0qUv22CQdh https://t.co/rXtnx95CDI,0.34,0.156,0.0,0.844
+176,Sat Jan 20 10:33:05 +0000 2018,@CBSnews,76,"One year into Trump's presidency, hundreds of key executive branch positions remain unfilled https://t.co/jYNp8OWVdP https://t.co/8gMBTjgIJc",0.0,0.0,0.0,1.0
+177,Sat Jan 20 10:18:07 +0000 2018,@CBSnews,77,"""House of horrors"" parents charged for torture against their 13 children https://t.co/weyyxHfgB9 https://t.co/PaYfG7Lt8P",-0.8555,0.0,0.485,0.515
+178,Sat Jan 20 10:03:05 +0000 2018,@CBSnews,78,How savvy teens are making a fortune on Twitter https://t.co/yu4KgHD7ct https://t.co/x8lBRR40QY,0.0,0.0,0.0,1.0
+179,Sat Jan 20 09:48:05 +0000 2018,@CBSnews,79,Pres. Trump speeds up move of U.S. Embassy to Jerusalem https://t.co/8zvR3KT0H0 https://t.co/r6w56EBsHW,0.0,0.0,0.0,1.0
+180,Sat Jan 20 09:33:04 +0000 2018,@CBSnews,80,Vladimir Putin takes dip in icy Russian lake waters to celebrate Epiphany https://t.co/cs98maURbR https://t.co/MC7kYDo2vi,0.5719,0.222,0.0,0.778
+181,Sat Jan 20 09:18:06 +0000 2018,@CBSnews,81,Phoenix police say suspected serial killer will likely be linked to more murders https://t.co/UbXrSSVnEZ https://t.co/Vn9eFTp3EF,-0.8883,0.0,0.467,0.533
+182,Sat Jan 20 09:03:06 +0000 2018,@CBSnews,82,"How a t-shirt, Disney World, and a viral social media post saved a father's life https://t.co/LOZgsHyw3L https://t.co/zhxhLpBHUx",0.4215,0.177,0.0,0.823
+183,Sat Jan 20 08:48:05 +0000 2018,@CBSnews,83,"White supremacists committed most extremist killings in U.S. in 2017, watchdog group says https://t.co/BvMrVYCqfA https://t.co/oHqMJdMWo9",-0.6887,0.101,0.325,0.575
+184,Sat Jan 20 08:33:05 +0000 2018,@CBSnews,84,"Tactical teams test Trump's border wall prototypes with jackhammers, saws and torches https://t.co/zJ6rrDEJg7 https://t.co/V7pXHRJM0J",0.0,0.0,0.0,1.0
+185,Sat Jan 20 08:18:07 +0000 2018,@CBSnews,85,"Report shows Las Vegas gunman's ""disturbing"" online searches for other crowded venues https://t.co/3KMqcwpJHW https://t.co/YFTmYdW39l",0.0,0.0,0.0,1.0
+186,Sat Jan 20 08:03:04 +0000 2018,@CBSnews,86,"Rapper Kodak Black arrested on weapons, child neglect charges https://t.co/vMVcA5rwzs https://t.co/mgIzGlqMVO",-0.8779,0.0,0.613,0.387
+187,Sat Jan 20 08:00:01 +0000 2018,@CBSnews,87,"""A bunch of Washington bozos"" to blame for government shutdown, Sen. Cory Gardner (R-CO) told @CBSThisMorning on Fr… https://t.co/jrKZxUj0hJ",-0.34,0.0,0.118,0.882
+188,Sat Jan 20 07:48:05 +0000 2018,@CBSnews,88,"Why are we only talking about ""Stormy Daniels"" now? https://t.co/BVLE39fzL9 https://t.co/FcjP0TNUVg",0.0,0.0,0.0,1.0
+189,Sat Jan 20 07:33:05 +0000 2018,@CBSnews,89,Mother of patient left in cold says her daughter was denied care https://t.co/S5npJflbAr https://t.co/q7ziHPKFXK,0.0772,0.177,0.16,0.663
+190,Sat Jan 20 07:18:08 +0000 2018,@CBSnews,90,Excitement as early blood test for 8 types of cancer advances https://t.co/CGzjHZjV6Y https://t.co/v9tPEbulpi,-0.296,0.182,0.25,0.568
+191,Sat Jan 20 07:03:05 +0000 2018,@CBSnews,91,"Cape Town, on verge of running out of water, braces for ""chaos"" https://t.co/yeBXpbKAy9 https://t.co/yO8oLj8nfl",0.0,0.0,0.0,1.0
+192,Sat Jan 20 07:00:01 +0000 2018,@CBSnews,92,"With the federal government shut down, how will the stoppage impact the U.S. economy? https://t.co/yACezgcpwA https://t.co/8ifciTJHNC",0.0,0.0,0.0,1.0
+193,Sat Jan 20 06:48:06 +0000 2018,@CBSnews,93,Pope Francis accuses Chile sex abuse victims of slander https://t.co/Ee5VCvBWBj https://t.co/UFPOuezPUR,-0.836,0.0,0.527,0.473
+194,Sat Jan 20 06:33:05 +0000 2018,@CBSnews,94,"Baby killed, 17 injured after car hits crowd on Rio boardwalk https://t.co/ZuGuqWaihP https://t.co/PurGUTOdN6",-0.802,0.0,0.396,0.604
+195,Sat Jan 20 06:18:07 +0000 2018,@CBSnews,95,"Delta imposes new rules for service dogs after ""serious incidents"" https://t.co/c67ImgaJzB https://t.co/FqwJsBytPT",-0.1779,0.0,0.213,0.787
+196,Sat Jan 20 06:07:36 +0000 2018,@CBSnews,96,"Capitol Lounge, a favorite D.C. spot for Capitol Hill staffers, began advertising drink specials starting at 12:01… https://t.co/vHTS4lUbI6",0.4588,0.158,0.0,0.842
+197,Sat Jan 20 06:03:06 +0000 2018,@CBSnews,97,"Texas ""Tourniquet Killer"" put to death in first execution of 2018 https://t.co/3CtLvcrjFF https://t.co/jt0ELybWiB",-0.8481,0.0,0.427,0.573
+198,Sat Jan 20 05:59:07 +0000 2018,@CBSnews,98,"After midnight, Senate Majority Leader Mitch McConnell blamed Democrats for ""the shoe-horning of illegal immigratio… https://t.co/UUf58zfkBF",-0.7717,0.0,0.324,0.676
+199,Sat Jan 20 05:45:25 +0000 2018,@CBSnews,99,"“Senate Democrats have let down our troops, our children, and all Americans,"" House @SpeakerRyan says in statement… https://t.co/CkA6KCk5cy",0.0,0.0,0.0,1.0
+200,Sat Jan 20 20:45:10 +0000 2018,@CNN,0,"""Woke"" grandma embodies spirit of Women's March https://t.co/Q9q0uWV5uZ https://t.co/5dV4vR0TEU",0.1779,0.175,0.0,0.825
+201,Sat Jan 20 20:30:16 +0000 2018,@CNN,1,Israel and Trump: United against the world https://t.co/T7a6q5pcOW | Analysis by Oren Liebermann https://t.co/HgR4qLKWo2,0.4215,0.189,0.0,0.811
+202,Sat Jan 20 20:15:09 +0000 2018,@CNN,2,Germany limps toward a new government https://t.co/dYF8F78Vt6 https://t.co/KwjUD7BdXN,0.0,0.0,0.0,1.0
+203,Sat Jan 20 20:00:16 +0000 2018,@CNN,3,Why Democrats may be making the wrong bet on the shutdown https://t.co/9VMPD0gFIM https://t.co/Pbw898BNOp,-0.4767,0.0,0.205,0.795
+204,Sat Jan 20 19:49:40 +0000 2018,@CNN,4,"RT @CNNPolitics: OMB Director Mick Mulvaney says this government shutdown is not like the last one: ""We were asked to vote for something in…",-0.2755,0.0,0.084,0.916
+205,Sat Jan 20 19:45:14 +0000 2018,@CNN,5,Everything you need to know about the federal government shutdown https://t.co/YixKKQOCVo https://t.co/r6DqfcTrwh,0.0,0.0,0.0,1.0
+206,Sat Jan 20 19:43:27 +0000 2018,@CNN,6,"CNN's Jim Acosta: ""How does this White House feel to have a shutdown one year after the President was sworn in?""
+
+M… https://t.co/E1InqpaKbX",0.0,0.0,0.0,1.0
+207,Sat Jan 20 19:41:13 +0000 2018,@CNN,7,"Office of Management and Budget Director Mick Mulvaney on the shutdown: ""We'll manage this day by day""… https://t.co/WBmYBG768q",0.0,0.0,0.0,1.0
+208,Sat Jan 20 19:40:15 +0000 2018,@CNN,8,"“We will not negotiate the status of 690,000 unlawful immigrants while hundreds of millions of taxpaying Americans.… https://t.co/JwwbLwdV8b",0.0,0.0,0.0,1.0
+209,Sat Jan 20 19:38:02 +0000 2018,@CNN,9,We're at the White House press briefing during the first day of the government shutdown. Watch live: https://t.co/nYJk7UIP9H,0.0,0.0,0.0,1.0
+210,Sat Jan 20 19:30:12 +0000 2018,@CNN,10,North Korea is planning to send 22 athletes to the Winter Olympics in South Korea next month. Athletes from the Nor… https://t.co/ZcaVRaLG9G,0.0,0.0,0.0,1.0
+211,Sat Jan 20 19:29:31 +0000 2018,@CNN,11,"White House Legislative Affairs Director Marc Short says their position ""remains the same"": ""We will not negotiate""… https://t.co/zTMgdJJjEy",0.0,0.0,0.0,1.0
+212,Sat Jan 20 19:15:04 +0000 2018,@CNN,12,How Trump changed the world in one year https://t.co/BkZjJSytLR | Analysis by Stephen Collinson https://t.co/GlLmNhuub6,0.0,0.0,0.0,1.0
+213,Sat Jan 20 19:00:21 +0000 2018,@CNN,13,How Trump helped save the Democrats https://t.co/zklKV0i2mJ https://t.co/tyQ8V7oWNE,0.4939,0.314,0.0,0.686
+214,Sat Jan 20 18:45:07 +0000 2018,@CNN,14,Marches and demonstrations to advocate for women's rights and other issues are happening across the country. Follow… https://t.co/3LjJtV55TG,0.0,0.0,0.0,1.0
+215,Sat Jan 20 18:30:08 +0000 2018,@CNN,15,It's the first day of the government shutdown. Follow CNN's live blog to keep up with the latest updates:… https://t.co/HqvNtfxmUw,0.0,0.0,0.0,1.0
+216,Sat Jan 20 18:15:05 +0000 2018,@CNN,16,Why you want Amazon to be your new neighbor https://t.co/AtWRSol98F https://t.co/cWzAQ3Ko1J,0.25,0.25,0.0,0.75
+217,Sat Jan 20 18:10:52 +0000 2018,@CNN,17,"RT @CNNnewsroom: A protester who dubs herself ""Woke Grandma"" tells CNN's @MarquardtA that she's ""marching for true equality, justice and ki…",0.7351,0.256,0.0,0.744
+218,Sat Jan 20 18:00:27 +0000 2018,@CNN,18,"One year later, Women's March returns https://t.co/zGFsbA1KUt https://t.co/mQ2jwGZMjs",0.0,0.0,0.0,1.0
+219,Sat Jan 20 17:45:05 +0000 2018,@CNN,19,"President Trump privately is saying Democrats caused shutdown, but that he'll be blamed https://t.co/l3xWON9BfL https://t.co/ELsWRkVEt1",-0.631,0.0,0.229,0.771
+220,Sat Jan 20 20:45:10 +0000 2018,@CNN,20,"""Woke"" grandma embodies spirit of Women's March https://t.co/Q9q0uWV5uZ https://t.co/5dV4vR0TEU",0.1779,0.175,0.0,0.825
+221,Sat Jan 20 20:30:16 +0000 2018,@CNN,21,Israel and Trump: United against the world https://t.co/T7a6q5pcOW | Analysis by Oren Liebermann https://t.co/HgR4qLKWo2,0.4215,0.189,0.0,0.811
+222,Sat Jan 20 20:15:09 +0000 2018,@CNN,22,Germany limps toward a new government https://t.co/dYF8F78Vt6 https://t.co/KwjUD7BdXN,0.0,0.0,0.0,1.0
+223,Sat Jan 20 20:00:16 +0000 2018,@CNN,23,Why Democrats may be making the wrong bet on the shutdown https://t.co/9VMPD0gFIM https://t.co/Pbw898BNOp,-0.4767,0.0,0.205,0.795
+224,Sat Jan 20 19:49:40 +0000 2018,@CNN,24,"RT @CNNPolitics: OMB Director Mick Mulvaney says this government shutdown is not like the last one: ""We were asked to vote for something in…",-0.2755,0.0,0.084,0.916
+225,Sat Jan 20 19:45:14 +0000 2018,@CNN,25,Everything you need to know about the federal government shutdown https://t.co/YixKKQOCVo https://t.co/r6DqfcTrwh,0.0,0.0,0.0,1.0
+226,Sat Jan 20 19:43:27 +0000 2018,@CNN,26,"CNN's Jim Acosta: ""How does this White House feel to have a shutdown one year after the President was sworn in?""
+
+M… https://t.co/E1InqpaKbX",0.0,0.0,0.0,1.0
+227,Sat Jan 20 19:41:13 +0000 2018,@CNN,27,"Office of Management and Budget Director Mick Mulvaney on the shutdown: ""We'll manage this day by day""… https://t.co/WBmYBG768q",0.0,0.0,0.0,1.0
+228,Sat Jan 20 19:40:15 +0000 2018,@CNN,28,"“We will not negotiate the status of 690,000 unlawful immigrants while hundreds of millions of taxpaying Americans.… https://t.co/JwwbLwdV8b",0.0,0.0,0.0,1.0
+229,Sat Jan 20 19:38:02 +0000 2018,@CNN,29,We're at the White House press briefing during the first day of the government shutdown. Watch live: https://t.co/nYJk7UIP9H,0.0,0.0,0.0,1.0
+230,Sat Jan 20 19:30:12 +0000 2018,@CNN,30,North Korea is planning to send 22 athletes to the Winter Olympics in South Korea next month. Athletes from the Nor… https://t.co/ZcaVRaLG9G,0.0,0.0,0.0,1.0
+231,Sat Jan 20 19:29:31 +0000 2018,@CNN,31,"White House Legislative Affairs Director Marc Short says their position ""remains the same"": ""We will not negotiate""… https://t.co/zTMgdJJjEy",0.0,0.0,0.0,1.0
+232,Sat Jan 20 19:15:04 +0000 2018,@CNN,32,How Trump changed the world in one year https://t.co/BkZjJSytLR | Analysis by Stephen Collinson https://t.co/GlLmNhuub6,0.0,0.0,0.0,1.0
+233,Sat Jan 20 19:00:21 +0000 2018,@CNN,33,How Trump helped save the Democrats https://t.co/zklKV0i2mJ https://t.co/tyQ8V7oWNE,0.4939,0.314,0.0,0.686
+234,Sat Jan 20 18:45:07 +0000 2018,@CNN,34,Marches and demonstrations to advocate for women's rights and other issues are happening across the country. Follow… https://t.co/3LjJtV55TG,0.0,0.0,0.0,1.0
+235,Sat Jan 20 18:30:08 +0000 2018,@CNN,35,It's the first day of the government shutdown. Follow CNN's live blog to keep up with the latest updates:… https://t.co/HqvNtfxmUw,0.0,0.0,0.0,1.0
+236,Sat Jan 20 18:15:05 +0000 2018,@CNN,36,Why you want Amazon to be your new neighbor https://t.co/AtWRSol98F https://t.co/cWzAQ3Ko1J,0.25,0.25,0.0,0.75
+237,Sat Jan 20 18:10:52 +0000 2018,@CNN,37,"RT @CNNnewsroom: A protester who dubs herself ""Woke Grandma"" tells CNN's @MarquardtA that she's ""marching for true equality, justice and ki…",0.7351,0.256,0.0,0.744
+238,Sat Jan 20 18:00:27 +0000 2018,@CNN,38,"One year later, Women's March returns https://t.co/zGFsbA1KUt https://t.co/mQ2jwGZMjs",0.0,0.0,0.0,1.0
+239,Sat Jan 20 17:45:05 +0000 2018,@CNN,39,"President Trump privately is saying Democrats caused shutdown, but that he'll be blamed https://t.co/l3xWON9BfL https://t.co/ELsWRkVEt1",-0.631,0.0,0.229,0.771
+240,Sat Jan 20 17:30:06 +0000 2018,@CNN,40,"Kidnapped Americans and Canadians have been rescued in Nigeria, police say https://t.co/Jn4Eg4qMJH https://t.co/KY7btXHgaB",0.4215,0.189,0.0,0.811
+241,Sat Jan 20 17:15:09 +0000 2018,@CNN,41,Trump's high-dollar fundraiser at Mar-a-Lago will go on https://t.co/F61PKxsfKx https://t.co/PxP1CmX6Uw,0.0,0.0,0.0,1.0
+242,Sat Jan 20 17:01:08 +0000 2018,@CNN,42,The Women’s March brought millions to the streets for a historic day of protest the day after President Trump’s ina… https://t.co/odnQs6JJ3T,-0.25,0.0,0.095,0.905
+243,Sat Jan 20 16:45:04 +0000 2018,@CNN,43,What to expect at the SAG Awards https://t.co/dJHx64g875 https://t.co/XoNjo0Fa6m,0.4588,0.273,0.0,0.727
+244,Sat Jan 20 16:30:24 +0000 2018,@CNN,44,These charts sum up Trump's presidency so far https://t.co/fNWV9TQ3Ru https://t.co/0J0cQHzdpu,0.0,0.0,0.0,1.0
+245,Sat Jan 20 16:15:13 +0000 2018,@CNN,45,"Simona Halep wins record Australian Open classic, Maria Sharapova exits https://t.co/yCsio4lU5R https://t.co/wsfE9w4Hxn",0.5719,0.252,0.0,0.748
+246,Sat Jan 20 16:00:13 +0000 2018,@CNN,46,Here are the stories you might have missed amid a busy news week: https://t.co/s4oUmOeyrw https://t.co/fffeezq9IU,-0.296,0.0,0.145,0.855
+247,Sat Jan 20 15:45:14 +0000 2018,@CNN,47,"Turkish jets hit Syrian town, kicking off air operation https://t.co/N3KgTpux5q https://t.co/P0Pk0bi5sx",0.0,0.0,0.0,1.0
+248,Sat Jan 20 15:30:11 +0000 2018,@CNN,48,Trump's America is caving as autocrats rise https://t.co/5m9M4wvAGJ (via @CNNOpinion) https://t.co/0I48MP7Y8u,0.0,0.0,0.0,1.0
+249,Sat Jan 20 15:18:05 +0000 2018,@CNN,49,German skier pulls off surprise win in classic Kitzbuhel downhill https://t.co/3Xi6rRionJ https://t.co/t8dAD9VEjv,0.7096,0.371,0.0,0.629
+250,Sat Jan 20 15:02:13 +0000 2018,@CNN,50,Renowned French chef Paul Bocuse dies at age 91 https://t.co/q6R2vR17Qu https://t.co/ZT6rhWsarX,0.0,0.0,0.0,1.0
+251,Sat Jan 20 14:45:14 +0000 2018,@CNN,51,The White House slams Democrats as “obstructionist losers” after the Senate fails to avert a government shutdown… https://t.co/1znq49N2JP,-0.5423,0.0,0.231,0.769
+252,Sat Jan 20 14:31:07 +0000 2018,@CNN,52,"US President Trump is fueling a global assault on democracy, according to a report https://t.co/oqSqrSvbOM",-0.5859,0.0,0.241,0.759
+253,Sat Jan 20 14:15:09 +0000 2018,@CNN,53,Shutdown drama shows Washington's failure to lead | Analysis by CNN's Stephen Collinson https://t.co/iZ5vYtWOOk https://t.co/6Ac2TZZUWJ,-0.5106,0.0,0.202,0.798
+254,Sat Jan 20 14:00:16 +0000 2018,@CNN,54,"A year into Donald Trump's presidency, global confidence in US leadership has fallen to a new low, slipping behind… https://t.co/jTiLL799JA",-0.0772,0.144,0.201,0.655
+255,Sat Jan 20 13:45:06 +0000 2018,@CNN,55,"From Las Vegas to New York City, here's everything you need to know about women's marches this weekend. You can als… https://t.co/D9a3vdkzp6",0.0,0.0,0.0,1.0
+256,Sat Jan 20 13:30:16 +0000 2018,@CNN,56,Legislation to prevent the government from shutting down failed in the Senate ahead of the midnight deadline on Fri… https://t.co/yb1d4mV79e,-0.4939,0.049,0.147,0.804
+257,Sat Jan 20 13:15:07 +0000 2018,@CNN,57,"In the final moments leading up to the midnight deadline, Senate Republicans and Democrats were unable to agree on… https://t.co/1325q5aHKr",0.3612,0.116,0.0,0.884
+258,Sat Jan 20 13:02:08 +0000 2018,@CNN,58,"Women who March: The Movement
+
+CNN followed the national organizers of the Women's March over the course of a year,… https://t.co/x9ofR1UIyk",0.0,0.0,0.0,1.0
+259,Sat Jan 20 12:49:00 +0000 2018,@CNN,59,Can I go to a national park? Will I get my Social Security check? Here’s what you need to know about the government… https://t.co/iHiK1YeZ3P,0.4137,0.121,0.0,0.879
+260,Sat Jan 20 12:31:05 +0000 2018,@CNN,60,"Iceland, a major British supermarket chain, has pledged to stop packaging its own products in plastic within five y… https://t.co/iTFWtgvEJq",-0.296,0.0,0.109,0.891
+261,Sat Jan 20 12:01:48 +0000 2018,@CNN,61,"A driver struck a median at high speed and soared into the second story of an office building in Santa Ana, Califor… https://t.co/iFRaWEth5D",-0.25,0.0,0.091,0.909
+262,Sat Jan 20 11:31:07 +0000 2018,@CNN,62,"Michael Phelps, the most decorated Olympian of all time, opened up about his battle with depression and said he con… https://t.co/WMKICrIpwm",-0.743,0.0,0.249,0.751
+263,Sat Jan 20 11:01:01 +0000 2018,@CNN,63,Government scientists say 2017 was one of the hottest years on record https://t.co/K4ao71hgUE https://t.co/MGpaE1tVRW,0.0,0.0,0.0,1.0
+264,Sat Jan 20 10:31:06 +0000 2018,@CNN,64,"Trump hotels are being swarmed with one-star reviews on Yelp, in which they are described as ""shitholes"" in referen… https://t.co/zPRaDy3EQY",0.0,0.0,0.0,1.0
+265,Sat Jan 20 10:01:06 +0000 2018,@CNN,65,"""Fake news,"" ""fake polls,"" ""fake media,"" ""fake stories""
+
+President Trump has used the word ""fake"" more than 400 tim… https://t.co/uu25wOcbHV",-0.9081,0.0,0.437,0.563
+266,Sat Jan 20 09:31:04 +0000 2018,@CNN,66,Iceland made it illegal to pay women less than men https://t.co/fxcfMnM3WI https://t.co/JqHmgA2q1X,-0.6124,0.0,0.333,0.667
+267,Sat Jan 20 09:01:24 +0000 2018,@CNN,67,Archeologists in Mexico have discovered the world's largest flooded cave. The watery labyrinth spans 216 miles in a… https://t.co/1TvS0h2iSl,0.0,0.0,0.0,1.0
+268,Sat Jan 20 08:46:06 +0000 2018,@CNN,68,Shutdown drama shows Washington's failure to lead | Analysis by CNN's Stephen Collinson https://t.co/EXLtFNss7A https://t.co/6HvILkAlYi,-0.5106,0.0,0.202,0.798
+269,Sat Jan 20 08:46:01 +0000 2018,@CNN,69,"The Dubai Frame, believed to be the world's largest picture frame, gives visitors a spectacular new vantage point f… https://t.co/nX0KdwUTQw",0.0,0.0,0.0,1.0
+270,Sat Jan 20 08:31:03 +0000 2018,@CNN,70,"Things that might happen if you (or your child) eat laundry pods: difficulty breathing, chemical burns, seizures, f… https://t.co/NdEczDQyuh",-0.34,0.0,0.118,0.882
+271,Sat Jan 20 08:16:02 +0000 2018,@CNN,71,CVS vows to stop digitally altering the images it uses to sell beauty products https://t.co/m0YPLVgV38 https://t.co/Hlf8JzSWUN,0.3818,0.19,0.11,0.7
+272,Sat Jan 20 08:02:02 +0000 2018,@CNN,72,"The flash of light that lit the night sky in Michigan on Tuesday is likely a meteor, the National Weather Service s… https://t.co/4mHqJi8vxd",0.0,0.0,0.0,1.0
+273,Sat Jan 20 07:46:06 +0000 2018,@CNN,73,Walmart is giving away free opioid disposal kits to allow people to safely throw out unused opioid prescription pil… https://t.co/SyQx26mOHw,0.8689,0.403,0.0,0.597
+274,Sat Jan 20 07:31:04 +0000 2018,@CNN,74,President Trump bragged on Twitter that his approval rating with black Americans has doubled. It hasn't.… https://t.co/j7aK2qB3Gx,0.4767,0.162,0.0,0.838
+275,Sat Jan 20 07:16:03 +0000 2018,@CNN,75,The texts loved ones sent during the Hawaii missile alert mishap https://t.co/YgvOlbGaTP https://t.co/m8xr5uJ3no,0.7269,0.357,0.0,0.643
+276,Sat Jan 20 07:02:44 +0000 2018,@CNN,76,"A drone came to the rescue of two swimmers off the coast of Australia, hovering above their heads and dropping a po… https://t.co/dgMOO3CsMW",0.5106,0.142,0.0,0.858
+277,Sat Jan 20 06:56:33 +0000 2018,@CNN,77,"RT @cnnbrk: ""This will be called the Trump Shutdown,” says Senate Democratic leader Chuck Schumer, adding that “blame should crash entirely…",-0.4019,0.0,0.119,0.881
+278,Sat Jan 20 06:52:50 +0000 2018,@CNN,78,RT @CNNTonight: What a government shutdown means for you https://t.co/V3Qy0uEYWj https://t.co/DS1hPruGxg,0.0,0.0,0.0,1.0
+279,Sat Jan 20 06:51:37 +0000 2018,@CNN,79,"President Trump and Sen. Chuck Schumer came close to a deal, but then it fell apart. This is how the day unfolded.… https://t.co/VjMwSENyzU",0.0,0.0,0.0,1.0
+280,Sat Jan 20 06:47:26 +0000 2018,@CNN,80,This wayward wallaby was taken into custody by Australian police after it was spotted hopping along the Sydney Harb… https://t.co/emKbjbUA70,0.0,0.0,0.0,1.0
+281,Sat Jan 20 06:31:55 +0000 2018,@CNN,81,Conditions became so windy in the Netherlands this week that people were being knocked off their feet… https://t.co/KrRXlbCJck,0.0,0.0,0.0,1.0
+282,Sat Jan 20 06:19:37 +0000 2018,@CNN,82,"In the final moments leading up to the midnight deadline, Senate Republicans and Democrats were unable to agree on… https://t.co/UKCzL2KIq6",0.3612,0.116,0.0,0.884
+283,Sat Jan 20 06:16:02 +0000 2018,@CNN,83,North and South Korean athletes will march together at the Winter Olympics opening ceremony under a unified flag… https://t.co/i6Ps7zkoXH,0.3818,0.133,0.0,0.867
+284,Sat Jan 20 06:15:08 +0000 2018,@CNN,84,Legislation to prevent the government from shutting down failed in the Senate ahead of the midnight deadline. Here'… https://t.co/ciFZh6immT,-0.4939,0.051,0.154,0.794
+285,Sat Jan 20 06:01:05 +0000 2018,@CNN,85,"Holding in a sneeze blew a small hole in a man's throat, according to a report. He spent two weeks in the hospital.… https://t.co/ZJWOwPR7qg",0.0,0.0,0.0,1.0
+286,Sat Jan 20 05:51:25 +0000 2018,@CNN,86,RT @CNNPolitics: McConnell: “I’ll be offering an amendment to change the date to February the 8th” on a continuing resolution https://t.co/…,0.0,0.0,0.0,1.0
+287,Sat Jan 20 05:49:38 +0000 2018,@CNN,87,"The White House slams Democrats as ""obstructionist losers"" https://t.co/yOMV4KsUOD https://t.co/ibMBHZRXvt",-0.5267,0.0,0.274,0.726
+288,Sat Jan 20 05:48:04 +0000 2018,@CNN,88,Senate Democratic Leader Chuck Schumer on his meeting with President Trump: “In exchange for strong DACA protection… https://t.co/HMnbMU9HRy,0.5106,0.163,0.0,0.837
+289,Sat Jan 20 05:46:39 +0000 2018,@CNN,89,"Schumer: ""The blame should crash entirely on Pres. Trump's shoulders. ... This will be called the Trump shutdown be… https://t.co/Liq8jPIrFM",-0.6249,0.0,0.221,0.779
+290,Sat Jan 20 05:46:04 +0000 2018,@CNN,90,Apple CEO Tim Cook says the next iOS update will show the health of your phone battery and allow you to disable a s… https://t.co/77ppWW8UWZ,0.2263,0.076,0.0,0.924
+291,Sat Jan 20 05:32:25 +0000 2018,@CNN,91,"Sen. Chuck Schumer: ""It's not just Democrats who opposed this CR, several Republicans did as well""… https://t.co/Zx5r9Fl5aQ",0.0,0.0,0.0,1.0
+292,Sat Jan 20 05:31:04 +0000 2018,@CNN,92,L'Oreal Paris is breaking barriers and making history by featuring a hijab-wearing woman in a hair campaign… https://t.co/ajqQvUUEm9,0.0,0.0,0.0,1.0
+293,Sat Jan 20 05:29:09 +0000 2018,@CNN,93,RT @CNNPolitics: Senate Majority Leader Mitch McConnell: “What we have just witnessed on the floor was a cynical decision by Senate Democra…,-0.3818,0.0,0.115,0.885
+294,Sat Jan 20 05:28:54 +0000 2018,@CNN,94,"Sen. Mitch McConnell blames Democrats for the government shutdown: ""I think our friends on the other side took some… https://t.co/Wb69iqZAwz",0.1027,0.13,0.113,0.756
+295,Sat Jan 20 05:25:59 +0000 2018,@CNN,95,"Sen. Mitch McConnell ""The government shutdown was 100% avoidable"" https://t.co/zvXAezSny7 https://t.co/W3ff7jldn2",0.0,0.0,0.0,1.0
+296,Sat Jan 20 05:24:25 +0000 2018,@CNN,96,White House press secretary Sarah Sanders has issued an official statement reacting to the government shutdown… https://t.co/7MsN8KlzvR,0.0,0.0,0.0,1.0
+297,Sat Jan 20 05:17:24 +0000 2018,@CNN,97,"RT @CNNPolitics: The government shuts down as lawmakers still search for a deal. 
+
+It's the first modern government shutdown with Congress…",0.0,0.0,0.0,1.0
+298,Sat Jan 20 05:16:03 +0000 2018,@CNN,98,"YouTube and Facebook are trying to stop the spread of the Tide Pod Challenge, a bizarre and dangerous online craze… https://t.co/Yc1F9KBHoL",-0.743,0.052,0.305,0.643
+299,Sat Jan 20 05:12:08 +0000 2018,@CNN,99,The federal government shut down at midnight as senators continued to scramble to reach a deal to fund the governme… https://t.co/LAqzmi4fEh,0.0258,0.055,0.0,0.945
+300,Sat Jan 20 20:55:18 +0000 2018,@Foxnews,0,"Maine town manager under fire for promoting white separatism, criticizing Islam https://t.co/VtgRVc4rv8",-0.34,0.152,0.299,0.549
+301,Sat Jan 20 20:55:12 +0000 2018,@Foxnews,1,Gunmen attack Kabul's Intercontinental Hotel https://t.co/iKftCfl067,-0.4767,0.0,0.383,0.617
+302,Sat Jan 20 20:55:07 +0000 2018,@Foxnews,2,A show of solidarity around the world marks 2018 #WomensMarch https://t.co/IJ0mbi5FwJ,0.296,0.196,0.0,0.804
+303,Sat Jan 20 20:54:48 +0000 2018,@Foxnews,3,"DC lawmakers dig their heels in, point fingers as government shutdown rolls on https://t.co/omDiWo5Uin",0.0,0.0,0.0,1.0
+304,Sat Jan 20 20:44:04 +0000 2018,@Foxnews,4,".@garybsmith: ""The market shrugs off a #shutdown."" https://t.co/NcZ6690mXK",0.0,0.0,0.0,1.0
+305,Sat Jan 20 20:40:16 +0000 2018,@Foxnews,5,U.S. markets - @POTUS's first year. https://t.co/HgX0oz1R8Z,0.0,0.0,0.0,1.0
+306,Sat Jan 20 20:37:57 +0000 2018,@Foxnews,6,U.S. markets - this week. https://t.co/UYaqcCI3VL,0.0,0.0,0.0,1.0
+307,Sat Jan 20 20:36:07 +0000 2018,@Foxnews,7,".@davidwebbshow: ""Let's look at the calendar. It's January 20th. DACA expires on March 5th. That means this was a c… https://t.co/zkg4p0M3EY",0.0,0.0,0.0,1.0
+308,Sat Jan 20 20:30:51 +0000 2018,@Foxnews,8,Poll Average: Democrats lead Republicans 46% to 38.3% in 2018 generic Congressional vote. https://t.co/WF3r3od4LI,0.0,0.0,0.0,1.0
+309,Sat Jan 20 20:28:03 +0000 2018,@Foxnews,9,Poll Average: 55.2% disapprove of @POTUS. https://t.co/CV6M0nFTKa,0.0,0.0,0.0,1.0
+310,Sat Jan 20 20:26:05 +0000 2018,@Foxnews,10,"TOMORROW on @FoxNewsSunday, Chris Wallace talks to @MickMulvaneyOMB - Tune in at 2p &amp; 10p ET on Fox News Channel! https://t.co/vHIDxiR2Sl",0.0,0.0,0.0,1.0
+311,Sat Jan 20 20:24:43 +0000 2018,@Foxnews,11,"This morning, @FLOTUS Melania Trump tweeted about her first year as First Lady. https://t.co/VHwVgnD6HD",0.0,0.0,0.0,1.0
+312,Sat Jan 20 20:22:05 +0000 2018,@Foxnews,12,"Protests mark first anniversary of @POTUS's inauguration. For full live coverage, tune in to Fox News Channel. https://t.co/qCx5uJRBcg",-0.2263,0.0,0.101,0.899
+313,Sat Jan 20 20:21:08 +0000 2018,@Foxnews,13,"James Comey to teach course on ""ethical leadership."" https://t.co/ez1rGiVGVq",0.5106,0.292,0.0,0.708
+314,Sat Jan 20 20:17:34 +0000 2018,@Foxnews,14,SCOTUS to rule on legality of travel ban. https://t.co/rWZ8u3dCDK https://t.co/rzPyduY77o,-0.5574,0.0,0.286,0.714
+315,Sat Jan 20 20:16:02 +0000 2018,@Foxnews,15,".@cathymcmorris: ""[@TheDemocrats] made the choice to shut the government down. To deny our troops their pay.""… https://t.co/5TlogfBY9j",-0.34,0.0,0.13,0.87
+316,Sat Jan 20 20:12:15 +0000 2018,@Foxnews,16,".@cathymcmorris: ""They made the choice to shut the government down. To deny our troops their pay."" #shutdown https://t.co/jCLuz9qjFP",-0.34,0.0,0.124,0.876
+317,Sat Jan 20 20:11:35 +0000 2018,@Foxnews,17,".@RepAndyBarr: ""@SenSchumer, where is your heart? @SenSchumer, where is your head?"" #Shutdown #Shutdown2018 https://t.co/adngFYXn2g",0.0,0.0,0.0,1.0
+318,Sat Jan 20 20:09:12 +0000 2018,@Foxnews,18,".@SenatorBlumenthal: ""I look forward to marching and running and fighting with you."" https://t.co/Dax5ilRqSJ https://t.co/Z5bVkKxeNt",-0.3612,0.0,0.161,0.839
+319,Sat Jan 20 20:08:14 +0000 2018,@Foxnews,19,Protesters hold rally in Dallas calling for @POTUS's impeachment; @caseystegall reports. https://t.co/0LyD4HL4cS,-0.2263,0.0,0.147,0.853
+320,Sat Jan 20 20:55:18 +0000 2018,@Foxnews,20,"Maine town manager under fire for promoting white separatism, criticizing Islam https://t.co/VtgRVc4rv8",-0.34,0.152,0.299,0.549
+321,Sat Jan 20 20:55:12 +0000 2018,@Foxnews,21,Gunmen attack Kabul's Intercontinental Hotel https://t.co/iKftCfl067,-0.4767,0.0,0.383,0.617
+322,Sat Jan 20 20:55:07 +0000 2018,@Foxnews,22,A show of solidarity around the world marks 2018 #WomensMarch https://t.co/IJ0mbi5FwJ,0.296,0.196,0.0,0.804
+323,Sat Jan 20 20:54:48 +0000 2018,@Foxnews,23,"DC lawmakers dig their heels in, point fingers as government shutdown rolls on https://t.co/omDiWo5Uin",0.0,0.0,0.0,1.0
+324,Sat Jan 20 20:44:04 +0000 2018,@Foxnews,24,".@garybsmith: ""The market shrugs off a #shutdown."" https://t.co/NcZ6690mXK",0.0,0.0,0.0,1.0
+325,Sat Jan 20 20:40:16 +0000 2018,@Foxnews,25,U.S. markets - @POTUS's first year. https://t.co/HgX0oz1R8Z,0.0,0.0,0.0,1.0
+326,Sat Jan 20 20:37:57 +0000 2018,@Foxnews,26,U.S. markets - this week. https://t.co/UYaqcCI3VL,0.0,0.0,0.0,1.0
+327,Sat Jan 20 20:36:07 +0000 2018,@Foxnews,27,".@davidwebbshow: ""Let's look at the calendar. It's January 20th. DACA expires on March 5th. That means this was a c… https://t.co/zkg4p0M3EY",0.0,0.0,0.0,1.0
+328,Sat Jan 20 20:30:51 +0000 2018,@Foxnews,28,Poll Average: Democrats lead Republicans 46% to 38.3% in 2018 generic Congressional vote. https://t.co/WF3r3od4LI,0.0,0.0,0.0,1.0
+329,Sat Jan 20 20:28:03 +0000 2018,@Foxnews,29,Poll Average: 55.2% disapprove of @POTUS. https://t.co/CV6M0nFTKa,0.0,0.0,0.0,1.0
+330,Sat Jan 20 20:26:05 +0000 2018,@Foxnews,30,"TOMORROW on @FoxNewsSunday, Chris Wallace talks to @MickMulvaneyOMB - Tune in at 2p &amp; 10p ET on Fox News Channel! https://t.co/vHIDxiR2Sl",0.0,0.0,0.0,1.0
+331,Sat Jan 20 20:24:43 +0000 2018,@Foxnews,31,"This morning, @FLOTUS Melania Trump tweeted about her first year as First Lady. https://t.co/VHwVgnD6HD",0.0,0.0,0.0,1.0
+332,Sat Jan 20 20:22:05 +0000 2018,@Foxnews,32,"Protests mark first anniversary of @POTUS's inauguration. For full live coverage, tune in to Fox News Channel. https://t.co/qCx5uJRBcg",-0.2263,0.0,0.101,0.899
+333,Sat Jan 20 20:21:08 +0000 2018,@Foxnews,33,"James Comey to teach course on ""ethical leadership."" https://t.co/ez1rGiVGVq",0.5106,0.292,0.0,0.708
+334,Sat Jan 20 20:17:34 +0000 2018,@Foxnews,34,SCOTUS to rule on legality of travel ban. https://t.co/rWZ8u3dCDK https://t.co/rzPyduY77o,-0.5574,0.0,0.286,0.714
+335,Sat Jan 20 20:16:02 +0000 2018,@Foxnews,35,".@cathymcmorris: ""[@TheDemocrats] made the choice to shut the government down. To deny our troops their pay.""… https://t.co/5TlogfBY9j",-0.34,0.0,0.13,0.87
+336,Sat Jan 20 20:12:15 +0000 2018,@Foxnews,36,".@cathymcmorris: ""They made the choice to shut the government down. To deny our troops their pay."" #shutdown https://t.co/jCLuz9qjFP",-0.34,0.0,0.124,0.876
+337,Sat Jan 20 20:11:35 +0000 2018,@Foxnews,37,".@RepAndyBarr: ""@SenSchumer, where is your heart? @SenSchumer, where is your head?"" #Shutdown #Shutdown2018 https://t.co/adngFYXn2g",0.0,0.0,0.0,1.0
+338,Sat Jan 20 20:09:12 +0000 2018,@Foxnews,38,".@SenatorBlumenthal: ""I look forward to marching and running and fighting with you."" https://t.co/Dax5ilRqSJ https://t.co/Z5bVkKxeNt",-0.3612,0.0,0.161,0.839
+339,Sat Jan 20 20:08:14 +0000 2018,@Foxnews,39,Protesters hold rally in Dallas calling for @POTUS's impeachment; @caseystegall reports. https://t.co/0LyD4HL4cS,-0.2263,0.0,0.147,0.853
+340,Sat Jan 20 20:03:40 +0000 2018,@Foxnews,40,".@cathymcmorris: ""They made the choice to shut the government down. To deny our troops their pay."" #shutdown https://t.co/U81EYvzFHK",-0.34,0.0,0.124,0.876
+341,Sat Jan 20 20:03:01 +0000 2018,@Foxnews,41,".@cathymcmorris: ""This shutdown of the government is completely unnecessary."" https://t.co/VikkOlvapv",0.0,0.0,0.0,1.0
+342,Sat Jan 20 19:52:21 +0000 2018,@Foxnews,42,"Moments ago, President @realDonaldTrump tweeted about the #WomensMarch. https://t.co/TTme6n7mbZ https://t.co/9yjHvSiInl",0.0,0.0,0.0,1.0
+343,Sat Jan 20 19:34:29 +0000 2018,@Foxnews,43,".@MickMulvaneyOMB: ""In 2013, we were being asked to vote for something we did not like."" https://t.co/ic3RdmvM63",0.0,0.0,0.0,1.0
+344,Sat Jan 20 19:30:08 +0000 2018,@Foxnews,44,".@MickMulvaneyOMB: ""The Democrats in the Senate could end this #shutdown today."" https://t.co/jvYoSvxY4p",0.0,0.0,0.0,1.0
+345,Sat Jan 20 19:29:42 +0000 2018,@Foxnews,45,".@MickMulvaneyOMB: ""Mr. Schumer's going to have to up his game a little bit and be a little more honest with the Pr… https://t.co/kTtj6Oltia",0.513,0.142,0.0,0.858
+346,Sat Jan 20 19:28:25 +0000 2018,@Foxnews,46,".@Marcshort45: ""The @WhiteHouse remains the same: that we will not negotiate the status of 690,000 unlawful immigra… https://t.co/WhX4XGRdvM",0.0,0.0,0.0,1.0
+347,Sat Jan 20 19:27:59 +0000 2018,@Foxnews,47,".@MickMulvaneyOMB: ""My favorite is still the #SchumerShutdown."" #Shutdown https://t.co/2L1SDNR30z",0.4588,0.273,0.0,0.727
+348,Sat Jan 20 19:27:10 +0000 2018,@Foxnews,48,".@MickMulvaneyOMB: ""The CDC has announced this morning they will continue immediate response work."" #shutdown https://t.co/TeADi6xjGl",0.0,0.0,0.0,1.0
+349,Sat Jan 20 19:22:51 +0000 2018,@Foxnews,49,".@Marcshort45: ""The @WhiteHouse remains the same: that we will not negotiate the status of 690,000 unlawful immigra… https://t.co/hNqbJ8irz3",0.0,0.0,0.0,1.0
+350,Sat Jan 20 19:21:52 +0000 2018,@Foxnews,50,".@Marcshort45: ""We stand here ready to sign the bill that the House passed last night, anxious to... reopen the gov… https://t.co/AHT4l317vt",0.128,0.106,0.085,0.809
+351,Sat Jan 20 19:21:00 +0000 2018,@Foxnews,51,".@Marcshort45: ""This morning, @POTUS has spoken to @SenateMajLdr, @SpeakerRyan, @GOPLeader... He also spoke with Se… https://t.co/rh7aJx5FRH",0.0,0.0,0.0,1.0
+352,Sat Jan 20 19:19:46 +0000 2018,@Foxnews,52,News Alert: Awaiting @WhiteHouse briefing on government shutdown. https://t.co/tdXZl57U6F,0.296,0.216,0.0,0.784
+353,Sat Jan 20 19:17:59 +0000 2018,@Foxnews,53,"Lawmakers point fingers as government shuts down and #WomensMarch take place nationwide - for full live coverage, t… https://t.co/4VcameY5PV",0.0,0.0,0.0,1.0
+354,Sat Jan 20 19:14:09 +0000 2018,@Foxnews,54,"Moments ago, President @realDonaldTrump tweeted about the #WomensMarch. https://t.co/TTme6n7mbZ https://t.co/lYxwQCgkiO",0.0,0.0,0.0,1.0
+355,Sat Jan 20 19:12:55 +0000 2018,@Foxnews,55,".@timkaine: ""Women deserve to be heard. Women deserve to be respected. Women deserve to lead."" #WomensMarch… https://t.co/vDou7taBE7",0.4767,0.162,0.0,0.838
+356,Sat Jan 20 19:08:08 +0000 2018,@Foxnews,56,.@JenKernsUSA: Women’s March -- Are we watching a movement or just group therapy for Trump haters? https://t.co/TzORLKoqOW,-0.4939,0.0,0.176,0.824
+357,Sat Jan 20 19:02:19 +0000 2018,@Foxnews,57,Trump accuses Democrats of 'holding our Military hostage' over shutdown impasse https://t.co/bl5NIe7eDU,-0.34,0.0,0.179,0.821
+358,Sat Jan 20 18:47:19 +0000 2018,@Foxnews,58,The Capitol and Washington Monument are seen as Women's March demonstrators line the Reflecting Pool at the Lincoln… https://t.co/Ub7OesH0ag,0.0,0.0,0.0,1.0
+359,Sat Jan 20 18:43:58 +0000 2018,@Foxnews,59,".@VP: ""The United States stands shoulder-to-shoulder with Egypt in their fight against terrorism."" https://t.co/cOshhY1Y3O",0.0516,0.161,0.149,0.69
+360,Sat Jan 20 18:39:12 +0000 2018,@Foxnews,60,A boy with Down syndrome became a basketball star after he scored a basket as his team cheered him on. https://t.co/7YJjMQmtoC,0.5106,0.163,0.0,0.837
+361,Sat Jan 20 18:32:51 +0000 2018,@Foxnews,61,"Maine town manager under fire for promoting white separatism, criticizing Islam https://t.co/4gh0we1ZCX",-0.34,0.152,0.299,0.549
+362,Sat Jan 20 18:14:40 +0000 2018,@Foxnews,62,First lady Melania Trump says first year has been 'filled with many wonderful moments' https://t.co/w32bTZ4CaV,0.5719,0.209,0.0,0.791
+363,Sat Jan 20 18:09:54 +0000 2018,@Foxnews,63,".@SenSchumer: ""This is the Trump shutdown, only the president can end it. We Democrats are at the table, we're read… https://t.co/FvbiPVTi09",0.0,0.0,0.0,1.0
+364,Sat Jan 20 18:06:33 +0000 2018,@Foxnews,64,"TONIGHT on @GregGutfeldShow, @greggutfeld talks North Korea and fake news - Tune in at 10p ET on Fox News Channel! https://t.co/gQ5HeUFgRE",-0.5255,0.0,0.151,0.849
+365,Sat Jan 20 18:04:46 +0000 2018,@Foxnews,65,".@SenSchumer: ""Negotiating with this White House is like negotiating with jello, it's next to impossible."" https://t.co/bNNJHOckUA",0.3612,0.143,0.0,0.857
+366,Sat Jan 20 17:59:36 +0000 2018,@Foxnews,66,JUST IN: Gunmen reportedly attack Kabul's Intercontinental Hotel https://t.co/arAMKRkHv4,-0.4767,0.0,0.279,0.721
+367,Sat Jan 20 17:53:04 +0000 2018,@Foxnews,67,"On @foxandfriends, @DiamondandSilk responded to news that former President @BarackObama was planning to campaign fo… https://t.co/gtw0XmUtVF",0.0,0.0,0.0,1.0
+368,Sat Jan 20 17:48:18 +0000 2018,@Foxnews,68,People line up for a march highlighting equal rights and equality for women. The march New York was among more than… https://t.co/3eVLMWCsat,0.0,0.0,0.0,1.0
+369,Sat Jan 20 17:43:33 +0000 2018,@Foxnews,69,Take a look back at some of the president's top successes from 2017. https://t.co/pN8rmca2Ni,0.6597,0.329,0.0,0.671
+370,Sat Jan 20 17:41:47 +0000 2018,@Foxnews,70,OPINION: @drmannyonFOX: Government shutdown hurts our veterans -- They deserve better https://t.co/I2PujIFXyW,-0.0516,0.181,0.194,0.625
+371,Sat Jan 20 17:36:05 +0000 2018,@Foxnews,71,"'Piece of Garbage': Michael Dukakis Rips Tax Law, Blasts Wall Proposal https://t.co/L7Yv9iVPxw",0.0,0.0,0.0,1.0
+372,Sat Jan 20 17:35:26 +0000 2018,@Foxnews,72,".@chuckschumer: ""The Republicans control the White House, the Senate, the House, that's why America and the world a… https://t.co/Vdc1DDyhgd",0.0,0.0,0.0,1.0
+373,Sat Jan 20 17:23:18 +0000 2018,@Foxnews,73,OPINION: First lady Melania Trump marks first year with grace and dignity https://t.co/L35WPkUdTw,0.6705,0.333,0.0,0.667
+374,Sat Jan 20 17:14:04 +0000 2018,@Foxnews,74,".@RajShah45: ""We're not going to negotiate the status of hundreds of thousands of people here unlawfully while the… https://t.co/jgbGEVi3Nz",0.0,0.0,0.0,1.0
+375,Sat Jan 20 17:03:17 +0000 2018,@Foxnews,75,OPINION: Trump's first year had round-the-clock journalistic insanity -- Here are 2017's most outrageous media mome… https://t.co/tKhXMYPdK8,-0.7902,0.0,0.318,0.682
+376,Sat Jan 20 16:54:21 +0000 2018,@Foxnews,76,".@Theismann7 on anthem protests: ""That flag represents something very special in this country... I think it's disre… https://t.co/eQxNhJtOGa",0.2716,0.15,0.096,0.754
+377,Sat Jan 20 16:52:02 +0000 2018,@Foxnews,77,"Ben Stein: ""It shocks me that Democrats would close the government down when government spending on defense is so u… https://t.co/RtybU8MCq8",-0.2732,0.065,0.113,0.823
+378,Sat Jan 20 16:29:01 +0000 2018,@Foxnews,78,"Moments ago, @FLOTUS tweeted about her first year as First Lady of the United States https://t.co/s1QAQbpTD0",0.4215,0.157,0.0,0.843
+379,Sat Jan 20 16:23:43 +0000 2018,@Foxnews,79,"Michael Dukakis: ""I think we have a great opportunity to take over the House and make gains in the Senate."" https://t.co/HP0TITqg0L",0.8519,0.354,0.0,0.646
+380,Sat Jan 20 16:14:34 +0000 2018,@Foxnews,80,Protests Mark One Year Anniversary of Trump Administration https://t.co/9Hl9O8Teh1,-0.2263,0.0,0.192,0.808
+381,Sat Jan 20 16:10:57 +0000 2018,@Foxnews,81,OPINION: Want your kids to talk to you? Try this... https://t.co/PXVFT3wciB,0.0772,0.115,0.0,0.885
+382,Sat Jan 20 16:08:08 +0000 2018,@Foxnews,82,Charles Manson supporter Leslie Van Houten denied parole again by California governor https://t.co/BQirQVHqbK,-0.2023,0.131,0.181,0.688
+383,Sat Jan 20 15:42:53 +0000 2018,@Foxnews,83,"Pat Buchanan: ""This market has not been good, it's been unbelievable."" https://t.co/j02c0s0DXG",-0.3412,0.0,0.179,0.821
+384,Sat Jan 20 15:38:41 +0000 2018,@Foxnews,84,DOW Milestones Since Election https://t.co/AYreE0EsZX,0.0,0.0,0.0,1.0
+385,Sat Jan 20 15:27:56 +0000 2018,@Foxnews,85,".@SenatorTimScott: ""The Schumer shutdown reflects that the Democrats are more engaged in campaigning and politics t… https://t.co/pcjVNQA0fM",0.4576,0.158,0.0,0.842
+386,Sat Jan 20 15:22:57 +0000 2018,@Foxnews,86,".@SenatorTimScott: ""This is a Schumer shutdown."" https://t.co/zakvzja31S",0.0,0.0,0.0,1.0
+387,Sat Jan 20 15:19:25 +0000 2018,@Foxnews,87,'He Does Not Respect Women': Andrew Cuomo Blasts Trump at Women's March Breakfast https://t.co/IFwWPXO3Ls,0.4767,0.193,0.0,0.807
+388,Sat Jan 20 15:00:06 +0000 2018,@Foxnews,88,RIGHT NOW: @TeamCavuto is LIVE in Washington for 2 hours - Don't miss #Cavuto Live every Saturday from 10a to 12p E… https://t.co/fK6u974nTI,0.1139,0.067,0.0,0.933
+389,Sat Jan 20 14:51:55 +0000 2018,@Foxnews,89,"Moments ago @realDonaldTrump tweeted about the government shutdown, blaming Democrats for ""holding our military hos… https://t.co/YRKAJhWXmf",-0.4939,0.0,0.176,0.824
+390,Sat Jan 20 14:23:11 +0000 2018,@Foxnews,90,A boy with Down syndrome became a basketball star after he scored a basket as his team cheered him on. https://t.co/tIYRwyBdfY,0.5106,0.163,0.0,0.837
+391,Sat Jan 20 14:11:47 +0000 2018,@Foxnews,91,".@hogangidley45: ""The Democrats played politics with peoples' lives. They're holding the military hostage, they're… https://t.co/t8B7D3qHof",0.34,0.146,0.0,0.854
+392,Sat Jan 20 14:04:26 +0000 2018,@Foxnews,92,OPINION: First lady Melania Trump marks first year with grace and dignity https://t.co/L35WPkUdTw,0.6705,0.333,0.0,0.667
+393,Sat Jan 20 13:52:19 +0000 2018,@Foxnews,93,".@MichaelGWaltz: ""[Soldiers are] out there on the wall for our freedom and we can't do our job back in Washington t… https://t.co/wy519W6ceT",0.6369,0.167,0.0,0.833
+394,Sat Jan 20 13:47:07 +0000 2018,@Foxnews,94,".@David_Bossie: ""This president only cares about America first."" https://t.co/IIUowmcYdd",0.4588,0.273,0.0,0.727
+395,Sat Jan 20 13:43:49 +0000 2018,@Foxnews,95,".@David_Bossie: ""There is no reason our government is shutdown except the Democrat Party, the Democrat leadership w… https://t.co/qiPWrLAuMk",0.128,0.129,0.105,0.766
+396,Sat Jan 20 13:42:00 +0000 2018,@Foxnews,96,".@David_Bossie: ""The Democratic Party is putting illegals, people here illegally, ahead of the American people."" https://t.co/XDd65ibeIP",0.4019,0.153,0.0,0.847
+397,Sat Jan 20 13:33:53 +0000 2018,@Foxnews,97,"Trump blames Dems for shutdown, calls it 'nice present' marking his one year in office https://t.co/iHfbN5Ul8M",0.0258,0.144,0.138,0.718
+398,Sat Jan 20 13:22:17 +0000 2018,@Foxnews,98,"North Korea sending 22 athletes to Winter Olympics, both countries to march together https://t.co/sgGYG2g4LK https://t.co/BxO4107jIG",0.0,0.0,0.0,1.0
+399,Sat Jan 20 13:14:03 +0000 2018,@Foxnews,99,".@jasoninthehouse on the shutdown: ""Republicans are going to blame Democrats, Democrats are going to blame Republic… https://t.co/gqm1cW5ome",-0.5859,0.0,0.242,0.758
+400,Sat Jan 20 20:50:07 +0000 2018,@nytimes,0,This week's Race/Related tackles the accusations against Aziz Ansari through a racial lens https://t.co/bgA7NpWFHW https://t.co/hfvLsCHP1z,-0.3182,0.0,0.15,0.85
+401,Sat Jan 20 20:40:04 +0000 2018,@nytimes,1,RT @ESCochrane: The view outside the White House right now. https://t.co/YJFEf0gw2m,0.0,0.0,0.0,1.0
+402,Sat Jan 20 20:33:55 +0000 2018,@nytimes,2,Tens of thousands of federal workers woke up to notices that they will be furloughed this coming week. But the shut… https://t.co/NGVt5VKzQU,0.0,0.0,0.0,1.0
+403,Sat Jan 20 20:20:06 +0000 2018,@nytimes,3,RT @charlie_savage: Here's what's going on with the Trump-Russia investigation &amp; the sudden/intense #ReleaseTheMemo social-media campaign r…,0.0,0.0,0.0,1.0
+404,Sat Jan 20 20:10:06 +0000 2018,@nytimes,4,"New York marchers are empowered: ""I feel like the revolution is now"" https://t.co/xJhfzx9JZj",0.3612,0.172,0.0,0.828
+405,Sat Jan 20 20:00:04 +0000 2018,@nytimes,5,"RT @ESCochrane: Pelosi on the shutdown:
+""We just came from the capitol where our Republican colleagues have shut down the government....
+Th…",0.0,0.0,0.0,1.0
+406,Sat Jan 20 19:49:03 +0000 2018,@nytimes,6,"Wearing a backward cap has never been a logical choice in tennis, but the style has persisted https://t.co/3bgbOnA03D",0.0,0.0,0.0,1.0
+407,Sat Jan 20 19:39:12 +0000 2018,@nytimes,7,Read the full text of Aly Raisman's statement during the sentencing hearing of Larry Nassar https://t.co/cqWmAkFSIT… https://t.co/mQUR7t5LAs,-0.1531,0.0,0.091,0.909
+408,Sat Jan 20 19:35:06 +0000 2018,@nytimes,8,"RT @ESCochrane: ""We're not tired, we're just getting started."" ""Happy anniversary, Mr. President."" Organizers speaking to kick off Washingt…",0.7274,0.264,0.0,0.736
+409,Sat Jan 20 19:23:18 +0000 2018,@nytimes,9,Patrick Meehan used thousands of dollars in taxpayer money to settle the complaint after a former aide accused him… https://t.co/oqAz31rlpx,-0.5267,0.0,0.206,0.794
+410,Sat Jan 20 19:19:22 +0000 2018,@nytimes,10,"Breaking News: Patrick Meehan, a congressman on a panel that examines harassment charges in the House, used public… https://t.co/wxyjuB9AbP",-0.6808,0.0,0.272,0.728
+411,Sat Jan 20 19:07:05 +0000 2018,@nytimes,11,"In the dizzying news cycle of the Trump era, a shutdown crisis now may be long forgotten by November https://t.co/WVpM89Uwd9",-0.7184,0.0,0.261,0.739
+412,Sat Jan 20 19:00:56 +0000 2018,@nytimes,12,"RT @ESCochrane: Nancy Pelosi, speaking to women's marchers in front of the Lincoln Memorial: ""Wouldn't you love to see this group serve in…",-0.5216,0.0,0.133,0.867
+413,Sat Jan 20 18:52:07 +0000 2018,@nytimes,13,"Trump's remarks were broadcast to the Mall, the first time a president had addressed the annual March for Life on l… https://t.co/tfLv6kNMp9",0.0,0.0,0.0,1.0
+414,Sat Jan 20 18:42:04 +0000 2018,@nytimes,14,"RT @johannabarr: “Everyone kept saying people are going to burn out; don’t highlight all the terrible things that are happening,” said Fati…",-0.1779,0.094,0.122,0.784
+415,Sat Jan 20 18:32:04 +0000 2018,@nytimes,15,The Women’s March became a movement. What’s next? https://t.co/me9QvugZOi https://t.co/5NCOqqCd66,0.0,0.0,0.0,1.0
+416,Sat Jan 20 18:22:28 +0000 2018,@nytimes,16,"RT @joumana_khatib: Watch scenes of the #WomensMarch2018 across the country: ""The only thing we have to lose is our chains"" https://t.co/tK…",-0.4019,0.0,0.119,0.881
+417,Sat Jan 20 18:17:04 +0000 2018,@nytimes,17,New York lawmakers are trying to find options to sidestep the effects of President Trump’s new federal tax plan https://t.co/fnRnwUgco8,0.0,0.0,0.0,1.0
+418,Sat Jan 20 18:02:05 +0000 2018,@nytimes,18,Read the full text of Aly Raisman's statement during the sentencing hearing of Larry Nassar https://t.co/xVYX23CyXf https://t.co/toiwsZ7cqd,-0.1531,0.0,0.091,0.909
+419,Sat Jan 20 17:52:03 +0000 2018,@nytimes,19,"RT @jmartNYT: Why were most Dems willing to engage in brinksmanship? 
+
+Because they know the midterms will revolve around Trump &gt;
+
+https://…",0.34,0.103,0.0,0.897
+420,Sat Jan 20 20:50:07 +0000 2018,@nytimes,20,This week's Race/Related tackles the accusations against Aziz Ansari through a racial lens https://t.co/bgA7NpWFHW https://t.co/hfvLsCHP1z,-0.3182,0.0,0.15,0.85
+421,Sat Jan 20 20:40:04 +0000 2018,@nytimes,21,RT @ESCochrane: The view outside the White House right now. https://t.co/YJFEf0gw2m,0.0,0.0,0.0,1.0
+422,Sat Jan 20 20:33:55 +0000 2018,@nytimes,22,Tens of thousands of federal workers woke up to notices that they will be furloughed this coming week. But the shut… https://t.co/NGVt5VKzQU,0.0,0.0,0.0,1.0
+423,Sat Jan 20 20:20:06 +0000 2018,@nytimes,23,RT @charlie_savage: Here's what's going on with the Trump-Russia investigation &amp; the sudden/intense #ReleaseTheMemo social-media campaign r…,0.0,0.0,0.0,1.0
+424,Sat Jan 20 20:10:06 +0000 2018,@nytimes,24,"New York marchers are empowered: ""I feel like the revolution is now"" https://t.co/xJhfzx9JZj",0.3612,0.172,0.0,0.828
+425,Sat Jan 20 20:00:04 +0000 2018,@nytimes,25,"RT @ESCochrane: Pelosi on the shutdown:
+""We just came from the capitol where our Republican colleagues have shut down the government....
+Th…",0.0,0.0,0.0,1.0
+426,Sat Jan 20 19:49:03 +0000 2018,@nytimes,26,"Wearing a backward cap has never been a logical choice in tennis, but the style has persisted https://t.co/3bgbOnA03D",0.0,0.0,0.0,1.0
+427,Sat Jan 20 19:39:12 +0000 2018,@nytimes,27,Read the full text of Aly Raisman's statement during the sentencing hearing of Larry Nassar https://t.co/cqWmAkFSIT… https://t.co/mQUR7t5LAs,-0.1531,0.0,0.091,0.909
+428,Sat Jan 20 19:35:06 +0000 2018,@nytimes,28,"RT @ESCochrane: ""We're not tired, we're just getting started."" ""Happy anniversary, Mr. President."" Organizers speaking to kick off Washingt…",0.7274,0.264,0.0,0.736
+429,Sat Jan 20 19:23:18 +0000 2018,@nytimes,29,Patrick Meehan used thousands of dollars in taxpayer money to settle the complaint after a former aide accused him… https://t.co/oqAz31rlpx,-0.5267,0.0,0.206,0.794
+430,Sat Jan 20 19:19:22 +0000 2018,@nytimes,30,"Breaking News: Patrick Meehan, a congressman on a panel that examines harassment charges in the House, used public… https://t.co/wxyjuB9AbP",-0.6808,0.0,0.272,0.728
+431,Sat Jan 20 19:07:05 +0000 2018,@nytimes,31,"In the dizzying news cycle of the Trump era, a shutdown crisis now may be long forgotten by November https://t.co/WVpM89Uwd9",-0.7184,0.0,0.261,0.739
+432,Sat Jan 20 19:00:56 +0000 2018,@nytimes,32,"RT @ESCochrane: Nancy Pelosi, speaking to women's marchers in front of the Lincoln Memorial: ""Wouldn't you love to see this group serve in…",-0.5216,0.0,0.133,0.867
+433,Sat Jan 20 18:52:07 +0000 2018,@nytimes,33,"Trump's remarks were broadcast to the Mall, the first time a president had addressed the annual March for Life on l… https://t.co/tfLv6kNMp9",0.0,0.0,0.0,1.0
+434,Sat Jan 20 18:42:04 +0000 2018,@nytimes,34,"RT @johannabarr: “Everyone kept saying people are going to burn out; don’t highlight all the terrible things that are happening,” said Fati…",-0.1779,0.094,0.122,0.784
+435,Sat Jan 20 18:32:04 +0000 2018,@nytimes,35,The Women’s March became a movement. What’s next? https://t.co/me9QvugZOi https://t.co/5NCOqqCd66,0.0,0.0,0.0,1.0
+436,Sat Jan 20 18:22:28 +0000 2018,@nytimes,36,"RT @joumana_khatib: Watch scenes of the #WomensMarch2018 across the country: ""The only thing we have to lose is our chains"" https://t.co/tK…",-0.4019,0.0,0.119,0.881
+437,Sat Jan 20 18:17:04 +0000 2018,@nytimes,37,New York lawmakers are trying to find options to sidestep the effects of President Trump’s new federal tax plan https://t.co/fnRnwUgco8,0.0,0.0,0.0,1.0
+438,Sat Jan 20 18:02:05 +0000 2018,@nytimes,38,Read the full text of Aly Raisman's statement during the sentencing hearing of Larry Nassar https://t.co/xVYX23CyXf https://t.co/toiwsZ7cqd,-0.1531,0.0,0.091,0.909
+439,Sat Jan 20 17:52:03 +0000 2018,@nytimes,39,"RT @jmartNYT: Why were most Dems willing to engage in brinksmanship? 
+
+Because they know the midterms will revolve around Trump &gt;
+
+https://…",0.34,0.103,0.0,0.897
+440,Sat Jan 20 17:42:02 +0000 2018,@nytimes,40,"The government shutdown risks political peril for both parties, and lawmakers insist that they were eager for a res… https://t.co/kw2C5uZAj5",0.1027,0.208,0.192,0.6
+441,Sat Jan 20 17:32:09 +0000 2018,@nytimes,41,Trump accused Democrats of orchestrating a government shutdown to detract from the anniversary of his inauguration https://t.co/MssBkoxY1K,-0.296,0.0,0.128,0.872
+442,Sat Jan 20 17:17:08 +0000 2018,@nytimes,42,Opinion: Here's what women around the country have done with their pussy hats https://t.co/FighucP4br,0.0,0.0,0.0,1.0
+443,Sat Jan 20 17:02:08 +0000 2018,@nytimes,43,"Women’s March rallies are taking place in hundreds of cities across the world, galvanized by the #MeToo moment. Her… https://t.co/IFDL5uQNnp",0.0,0.0,0.0,1.0
+444,Sat Jan 20 16:32:06 +0000 2018,@nytimes,44,"Paul Bocuse, the chef who revolutionized French cuisine at his 3-Michelin star restaurant, has died at 91 https://t.co/pxtlvlSonv",-0.5574,0.0,0.175,0.825
+445,Sat Jan 20 16:17:04 +0000 2018,@nytimes,45,The latest front in the partisan struggle over the investigation into the Russia inquiry? A 2016 application for a… https://t.co/F8Zyum8Kqd,-0.3182,0.0,0.113,0.887
+446,Sat Jan 20 16:02:03 +0000 2018,@nytimes,46,"Yes, people really are eating Tide pods. No, It’s not safe. https://t.co/dq1jV7GRcE",-0.2278,0.166,0.282,0.552
+447,Sat Jan 20 15:47:06 +0000 2018,@nytimes,47,We will be tracking Women's Marches around the world and talking with women about what’s brought them out and their… https://t.co/rTUwLOf2kJ,0.0,0.0,0.0,1.0
+448,Sat Jan 20 15:32:07 +0000 2018,@nytimes,48,"Over cheeseburgers, Trump and Chuck Schumer struck an outline of an agreement to keep the government open. Then eve… https://t.co/lsqvIJZWoS",0.296,0.138,0.086,0.776
+449,Sat Jan 20 15:17:03 +0000 2018,@nytimes,49,"10 breakout films of Sundances past, and where to stream them https://t.co/MoY5XjPsSd",0.0,0.0,0.0,1.0
+450,Sat Jan 20 15:03:03 +0000 2018,@nytimes,50,"Heartier than chicken soup, this classic comfort dish is decidedly more stewlike https://t.co/hUdkydcK0F https://t.co/sa2DDhOuGH",0.3612,0.161,0.0,0.839
+451,Sat Jan 20 14:57:56 +0000 2018,@nytimes,51,Trump Passed a Cognitive Exam. What Does That Really Mean? https://t.co/cj4rP8dILy,0.0,0.0,0.0,1.0
+452,Sat Jan 20 14:42:04 +0000 2018,@nytimes,52,"In Savannah, there is no shortage of history, beauty and architectural delights. And a visit needn’t cost you much. https://t.co/Oxr655YBgH",0.5574,0.262,0.162,0.577
+453,Sat Jan 20 14:28:08 +0000 2018,@nytimes,53,"Review: The Ghosts of Michael Brown, in ‘Until the Flood’ https://t.co/7R0zL5vMej",0.0,0.0,0.0,1.0
+454,Sat Jan 20 14:22:03 +0000 2018,@nytimes,54,"The hidden gems of 2017 movies are on ... Netflix?
+https://t.co/SsxdMkYLgP",0.0,0.0,0.0,1.0
+455,Sat Jan 20 14:13:32 +0000 2018,@nytimes,55,"Yes, People Really Are Eating Tide Pods. No, It’s Not Safe. https://t.co/HeEYEGbJy2",0.5267,0.333,0.131,0.536
+456,Sat Jan 20 14:03:03 +0000 2018,@nytimes,56,Opinion: Anyone who doubts climate change should come to this island in Bangladesh https://t.co/lSDpuYBL0p,-0.296,0.0,0.145,0.855
+457,Sat Jan 20 13:42:04 +0000 2018,@nytimes,57,"The final Boeing 747 flight by any commercial U.S. airline took to the sky recently, with some tears and farewells.… https://t.co/byasX5k8Wj",-0.2263,0.0,0.087,0.913
+458,Sat Jan 20 13:31:45 +0000 2018,@nytimes,58,"Women’s March Returns a Year Later, as Movement Evolves https://t.co/CaTjWF8xTi",0.0,0.0,0.0,1.0
+459,Sat Jan 20 13:28:25 +0000 2018,@nytimes,59,"Paul Bocuse, Celebrated French Chef, Dies at 91 https://t.co/UaHdGhqQCy",0.5719,0.316,0.0,0.684
+460,Sat Jan 20 13:22:04 +0000 2018,@nytimes,60,How bad is this year's flu season? Is this particular strain dangerous? Answers to your questions about the flu. https://t.co/xmMuHkNTUO,-0.9074,0.0,0.471,0.529
+461,Sat Jan 20 13:03:05 +0000 2018,@nytimes,61,Calls grow for Michigan State University president to resign over Larry Nassar case https://t.co/eMrkbtOa83,-0.34,0.0,0.156,0.844
+462,Sat Jan 20 12:42:04 +0000 2018,@nytimes,62,10 new books recommended by critics and editors at The New York Times https://t.co/ErX0lAk3Sw,-0.1027,0.113,0.138,0.75
+463,Sat Jan 20 12:22:04 +0000 2018,@nytimes,63,RT @paula_span: Should you have a separate advance directive that tells your doctors what to do if you develop dementia?  https://t.co/V4TZ…,0.0,0.0,0.0,1.0
+464,Sat Jan 20 12:03:05 +0000 2018,@nytimes,64,Here's how every senator voted on the government shutdown https://t.co/Xv97B6C5nr,0.0,0.0,0.0,1.0
+465,Sat Jan 20 11:45:42 +0000 2018,@nytimes,65,"""Little Ripper"" helped save 2 swimmers at a beach in Australia. (Little Ripper is a drone.) https://t.co/VQ2cJWh8ET",0.4472,0.184,0.0,0.816
+466,Sat Jan 20 11:28:34 +0000 2018,@nytimes,66,"""They said, 'You look shaken,' and I said I was,"" Richard Durbin said. ""After you have been in politics as long I h… https://t.co/Cx2XimdDHH",0.0,0.0,0.0,1.0
+467,Sat Jan 20 11:11:31 +0000 2018,@nytimes,67,Satellite imagery of the California mudslides that are being used to identify what caused them https://t.co/10o3qlCHx7,0.0,0.0,0.0,1.0
+468,Sat Jan 20 10:53:24 +0000 2018,@nytimes,68,Fiction: Madeleine Thien’s New Novel of Communist Occupation Turns Inward https://t.co/7Q28FkgVuY,0.3182,0.187,0.0,0.813
+469,Sat Jan 20 10:49:48 +0000 2018,@nytimes,69,11 of Our Best Weekend Reads https://t.co/hRcyPAId3u,0.6369,0.412,0.0,0.588
+470,Sat Jan 20 10:37:03 +0000 2018,@nytimes,70,Olympic gymnasts Aly Raisman and Jordyn Wieber echoed dozens who say they too are victims of Larry Nassar https://t.co/VHdZcd27Yo,-0.3182,0.0,0.113,0.887
+471,Sat Jan 20 10:18:44 +0000 2018,@nytimes,71,Meet Your Art Twin: A 400-Year-Old With an Oily Complexion https://t.co/rvE3qpQYa8,0.0,0.0,0.0,1.0
+472,Sat Jan 20 10:03:07 +0000 2018,@nytimes,72,"For more than 600 years, Prague’s Astronomical Clock has measured the passing hours, noting when day turns to night… https://t.co/Zrc9brh9hM",0.0,0.0,0.0,1.0
+473,Sat Jan 20 09:43:13 +0000 2018,@nytimes,73,"While the lives of squid are mysterious in many ways, one gruesome truth is that after mating comes death https://t.co/SufNiLX4kV",-0.3818,0.095,0.161,0.744
+474,Sat Jan 20 09:27:02 +0000 2018,@nytimes,74,"Being antisocial leads to a longer life. For marmots.
+https://t.co/DaLzio5lXK",0.0,0.0,0.0,1.0
+475,Sat Jan 20 09:10:01 +0000 2018,@nytimes,75,"RT @nytvideo: She created a spreadsheet that enabled women in the media industry to name men accused of sexual misconduct. Now, she's speak…",-0.0516,0.083,0.091,0.826
+476,Sat Jan 20 08:52:52 +0000 2018,@nytimes,76,"""The Bitcoin bubble may ultimately turn out to be a distraction from the true significance of the blockchain."" https://t.co/6ytFQB1bwE",0.3182,0.218,0.116,0.667
+477,Sat Jan 20 08:33:45 +0000 2018,@nytimes,77,"Playlist: The Playlist: Previously Unreleased Hendrix, and 10 More New Songs https://t.co/JXz0qZU4kE",0.0,0.0,0.0,1.0
+478,Sat Jan 20 08:23:05 +0000 2018,@nytimes,78,A new book examines why child prodigies often do not sustain their genius into adulthood https://t.co/pGOmbRRCet,0.0,0.0,0.0,1.0
+479,Sat Jan 20 08:05:51 +0000 2018,@nytimes,79,"A baby who had experimental surgery while still in the womb for a severe spinal defect, is born: full-term and kick… https://t.co/mE6EplU9IO",-0.6124,0.0,0.217,0.783
+480,Sat Jan 20 07:48:30 +0000 2018,@nytimes,80,"“Dr. Nassar was not a doctor. He in fact is, was, and forever shall be a child molester, and a monster of a human b… https://t.co/qMj2PIGVRE",-0.5106,0.0,0.136,0.864
+481,Sat Jan 20 07:32:04 +0000 2018,@nytimes,81,"RT @NYTStyles: He remembered thinking, “this guy has a lot of guts, and he’s kind of cute, too.” (And both, now active-duty Apache helicopt…",0.4033,0.11,0.0,0.89
+482,Sat Jan 20 07:20:03 +0000 2018,@nytimes,82,Senate Leaders Speak After Government Shuts Down https://t.co/YLdt83KR3b,0.0,0.0,0.0,1.0
+483,Sat Jan 20 07:06:18 +0000 2018,@nytimes,83,"""How do you exorcise someone like this, get them out of your deepest being, out from under your skin?"" https://t.co/syUgYiQxsI",0.3612,0.116,0.0,0.884
+484,Sat Jan 20 06:47:02 +0000 2018,@nytimes,84,RT @NYTHealth: More young and middle-aged women are using A.D.H.D. drugs -- a lot more. https://t.co/HIcRS0X6Zi,0.0,0.0,0.0,1.0
+485,Sat Jan 20 06:32:03 +0000 2018,@nytimes,85,Delta Air Lines said it was tightening its rules for service and support animals https://t.co/AKlQ1D1arM,0.4019,0.162,0.0,0.838
+486,Sat Jan 20 06:23:00 +0000 2018,@nytimes,86,RT @thomaskaplan: McConnell says the Senate will convene at noon on Saturday.,0.0,0.0,0.0,1.0
+487,Sat Jan 20 06:18:06 +0000 2018,@nytimes,87,"Leaving a bad review on Airbnb is one thing, receiving one is another https://t.co/mpoMe1yJyi",-0.5423,0.0,0.226,0.774
+488,Sat Jan 20 06:03:03 +0000 2018,@nytimes,88,"RT @shearm: My story on the day of negotiations between @SenSchumer and @realDonaldTrump, with @maggieNYT https://t.co/XmaW2DCeZq",0.0,0.0,0.0,1.0
+489,Sat Jan 20 05:48:04 +0000 2018,@nytimes,89,A neighbor of Rand Paul is expected to plead guilty to a federal charge in connection with his attack of the senator https://t.co/57HM7jFD9H,-0.7096,0.0,0.237,0.763
+490,Sat Jan 20 05:32:03 +0000 2018,@nytimes,90,"RT @nytpolitics: Over cheeseburgers, President Trump and Senator Schumer struck an outline of an agreement to keep the government open. The…",0.296,0.132,0.083,0.785
+491,Sat Jan 20 05:18:04 +0000 2018,@nytimes,91,Here is the impact of the government shutdown on federal agencies https://t.co/rsI0Hzxg4M,0.0,0.0,0.0,1.0
+492,Sat Jan 20 05:03:09 +0000 2018,@nytimes,92,Breaking News: The U.S. government has officially shut down. Lawmakers are now scrambling for a quick deal to reope… https://t.co/BazuiRbaEc,0.0,0.0,0.0,1.0
+493,Sat Jan 20 04:48:05 +0000 2018,@nytimes,93,RT @NeilMacFarquhar: H'o'w would you feel if your new alpha'b'et was suddenly full of apo'stro'phes in odd pla'c'es? #Kazakhstan https://t.…,-0.3182,0.0,0.108,0.892
+494,Sat Jan 20 04:33:01 +0000 2018,@nytimes,94,"""Music is an inherently creative process. So we are directly opposing this feeling of loss with a feeling of creati… https://t.co/SlarusOduK",0.431,0.252,0.094,0.654
+495,Sat Jan 20 04:18:06 +0000 2018,@nytimes,95,"When states make it harder to enroll, even eligible people drop Medicaid https://t.co/sK8XW1Qh4t",-0.2732,0.0,0.149,0.851
+496,Sat Jan 20 04:08:04 +0000 2018,@nytimes,96,Here's how every senator voted on the government shutdown https://t.co/yr83pkdqKh,0.0,0.0,0.0,1.0
+497,Sat Jan 20 03:48:05 +0000 2018,@nytimes,97,"RT @nytpolitics: If the government shuts down, hundreds of thousands of federal workers would be furloughed, affecting a wide range of gove…",0.0,0.0,0.0,1.0
+498,Sat Jan 20 03:34:02 +0000 2018,@nytimes,98,A stopgap spending bill to keep the government open was blocked in the Senate. Latest updates here: https://t.co/H02W3crJsX,-0.2732,0.0,0.116,0.884
+499,Sat Jan 20 03:24:04 +0000 2018,@nytimes,99,RT @nytgraphics: LIVE VOTE COUNT: The Senate is voting now to avert a government shutdown https://t.co/GV9koV4bU9,-0.1779,0.0,0.108,0.892
