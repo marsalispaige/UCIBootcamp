@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <meta charset="UTF-8">
+            <title>Temperature vs. Latitude</title>
+            
+            <!-- Bootstrap -->
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+            
+             <!-- Project CSS -->
+            <link rel="stylesheet" href="style.css">
+            <script type="text/javascript" src="jquery-3.3.1.js"></script>
+            <script type="text/javascript" src="Scripts/bootstrap.min.js"></script>
+          
+    </head>
+
+    <body style="background-color: rgb(243, 243, 243)">
+        <div class="container-fluid text-center" >
+
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand bg-info text-white" href="#">Week 12 Homework</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                            <li><a href="index.html">Home</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li class="active"><a href="#">Temperature</a></li>
+                                <li><a href="humidity.html">Humidity</a></li>
+                                <li><a href="cloud.html">Cloudiness</a></li>
+                                <li><a href="wind.html">Wind Speed</a></li>
+
+                            </ul>
+                        </li>
+                        <li><a href="comp.html">Viz Comparison</a></li>
+                        <li><a href="data.html">Data</a></li>
+                    </ul>
+
+                </div>
+            </nav>
+
+
+            <div class="row"  style="background-color: rgb(255, 255, 255)">
+                    <div class="col-md-6  text-center">
+                            <h1>Temperature vs. Latitude
+                                </h1>
+                            <h4>In this analysis, there appears to be a correlation between 
+                                    Temperature and Latitude as the temperature 
+                                    began to decrease when observing Latitude outside of 
+                                    -20 and 20 degrees. Additionally, temperature peaks at zero
+                                    latitude.
+                                </h4>
+                        <img src="images/TempvsLatitude.png" alt="Temperature" class="img-rounded">
+                    </div>
+
+                    <div class="col-md-6  text-center">
+                            <div class="row">
+                                <div class="col-md-6 panel panel-primary">
+                                    <img src="images/TempvsLatitude.png" alt="Temperature" class="img-responsive img-rounded ">
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="images/HumidityvsLatitude.png" alt="Humidity" class="img-responsive img-rounded">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="images/CloudCovvsLatitude.png" alt="Cloud Coverage" class="img-responsive img-rounded">
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="images/WindSpdvsLatitude.png" alt="Wind Speed" class="img-responsive img-rounded">
+                                </div>
+                            </div>
+                    </div>
+    
+            </div>
+        </div>
+
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+       
+    </body>
+</html>
