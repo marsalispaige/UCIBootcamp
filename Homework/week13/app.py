@@ -11,6 +11,7 @@ def index():
     mars_db = mongo.db.mars_db.find_one()
     print("MONGODB GET*******************")
     print(mars_db)
+    print("MONGODB GOT *********")
     return render_template('index.html', mars_db=mars_db)
     print("RETURN EXECUTED")
 

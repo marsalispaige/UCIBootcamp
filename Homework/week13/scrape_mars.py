@@ -25,8 +25,8 @@ def scrape():
     results_p = soup.find('div', class_='rollover_description_inner')
     news_p = results_p.get_text()
 
-    scraped_data['news title'] = news_title
-    scraped_data['news paragraph'] = news_p
+    scraped_data['news_title'] = news_title
+    scraped_data['news_paragraph'] = news_p
     #URL for JPL Featured Page
 
     #executable_path = {'executable_path': 'chromedriver.exe'}
@@ -54,7 +54,7 @@ def scrape():
     img_url = img_ele['src']
 
     featured_image_url = f'https://www.jpl.nasa.gov{img_url}'
-    scraped_data['featured image url'] = featured_image_url
+    scraped_data['featured_image_url'] = featured_image_url
 
 
     #Mars Weather
@@ -96,20 +96,20 @@ def scrape():
     i = 1
 
     for x in range(4):
-        hemispheres = {}
+        hemisphere = {}
         
         browser.find_by_css('a.product-item')[x+i].click()
         
         ele = browser.find_by_css('h2.title').text
-        hemispheres['title'] = ele
+        hemisphere['title'] = ele
         print(ele)
         
         ele = browser.find_link_by_text('Sample')
-        hemispheres['url'] = ele['href']
+        hemisphere['url'] = ele['href']
         print(ele['href'])
         
         
-        hemispheres_img.append(hemispheres)
+        hemispheres_img.append(hemisphere)
         
         i = i + 1
         browser.back()
