@@ -9,6 +9,7 @@ import requests
 import pandas as pd
 from splinter import Browser
 
+scraped_data ={}
 
 def scrape():
     # URL of Python nasa
@@ -26,7 +27,8 @@ def scrape():
     results_p = soup.find('div', class_='rollover_description_inner')
     news_p = results_p.get_text()
 
-
+    scraped_data['news title'] = news_title
+    scraped_data['news paragraph'] = news_p
     #URL for JPL Featured Page
 
     #executable_path = {'executable_path': 'chromedriver.exe'}
@@ -51,7 +53,7 @@ def scrape():
     img_url = img_ele['src']
 
     featured_image_url = f'https://www.jpl.nasa.gov{img_url}'
-    featured_image_url
+    scraped_data['featured image url'] = featured_image_url
 
 
     #Mars Weather
@@ -63,6 +65,7 @@ def scrape():
     weather_ele = soup.find('div', class_='js-tweet-text-container')
     mars_weather = weather_ele.p.text
 
+    scraped_data['weather'] = mars_weather
 
     #Mars Facts
     url = 'http://space-facts.com/mars/'
@@ -70,7 +73,10 @@ def scrape():
     df = pd.read_html(url)[0]
     df.columns=['facts', 'measures']
     df.set_index('facts', inplace=True)
-    df.to_html()
+    tbl = df.to_html()
+    tbl = tbl.replace('\n', '')
+
+    scraped_data['facts'] = tbl
 
 
     #mars Hemispheres
@@ -107,3 +113,6 @@ def scrape():
         i = i + 1
         browser.back()
 
+    scraped_data['hemispheres'] = hemispheres_img
+
+    return scraped_data
