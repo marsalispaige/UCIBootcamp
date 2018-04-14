@@ -4,13 +4,8 @@ from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
 from splinter import Browser
-import pymongo
+import time
 
-conn = "mongodb://localhost:27017"
-client = pymongo.MongoClient(conn)
-
-db = client.mars_db
-collection = db.items
 
 scraped_data ={}
 
@@ -45,9 +40,12 @@ def scrape():
 
     full_img_ele = browser.find_by_id("full_image")
     full_img_ele.click()
+    time.sleep(2)
 
-    more_info_ele = browser.find_link_by_partial_text('more info')
-    more_info_ele.click()
+    browser.click_link_by_partial_text('more info')
+    #print(more_info_ele)
+    #more_info_ele.click()
+    time.sleep(2)
 
     html = browser.html
     soup = bs(html, 'html.parser')
@@ -61,9 +59,9 @@ def scrape():
 
     #Mars Weather
     url = 'https://twitter.com/marswxreport?lang=en'
-    browser.visit(url)
-    html = browser.html
-    soup = bs(html, 'html.parser')
+    html = requests.get(url)
+   # html = browser.html
+    soup = bs(html.text, 'html.parser')
 
     weather_ele = soup.find('div', class_='js-tweet-text-container')
     mars_weather = weather_ele.p.text
