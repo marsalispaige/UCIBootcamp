@@ -1,13 +1,16 @@
 
-# coding: utf-8
-
-
-
 # Dependencies
 from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
 from splinter import Browser
+import pymongo
+
+conn = "mongodb://localhost:27017"
+client = pymongo.MongoClient(conn)
+
+db = client.mars_db
+collection = db.items
 
 scraped_data ={}
 
