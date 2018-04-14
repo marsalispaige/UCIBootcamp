@@ -16,6 +16,8 @@ def index():
 def scrape():
     mars_db = mongo.db.mars_db
     data = scrape_mars.scrape()
+    print('**************************')
+    print(data)
     mars_db.update(
         {},
         data,
