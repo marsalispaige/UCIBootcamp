@@ -7,10 +7,25 @@ var $countryInput = document.querySelector("#country");
 var $shapeInput = document.querySelector("#shape");
 
 var $search = document.querySelector("#search");
+var $load = document.querySelector("#load");
 
 $search.addEventListener("click", dataRetrieve);
+$load.addEventListener("click",index);
+
 
 var filterUfoData = dataSet;
+
+var startingIndex = 0;
+var resultsPerPage = 99;
+
+//for(var i =0; i < filterUfoData.length; i++)
+    //console.log(Object.keys(filterUfoData[0]));
+
+function index(){
+    startingIndex += resultsPerPage;
+    tableGen();
+}
+
 
 function dataRetrieve(){
     var stateSelect = $stateInput.value.trim().toLowerCase();
@@ -37,15 +52,17 @@ function dataRetrieve(){
 
 
 function tableGen(){
-    for(var i=0;i < filterUfoData.length;i++){
-        var $d  = filterUfoData[i];
-        var $values = Object.keys(d);
-
-        var $row = $tbody.insertRow(i);
-        for(var j=0;j< $values.length;j++){
-            var $value = $values[j];
+    var endingIndex = startingIndex + resultsPerPage;
+    var ufoSet = filterUfoData.slice(startingIndex,endingIndex);
+    for(var i=0;i < ufoSet.length;i++){
+        var $record  = ufoSet[i];
+        var $keys = Object.keys($record);
+        //console.log($record);
+        var $row = $tbody.insertRow(i + startingIndex);
+        for(var j=0;j < $keys.length; j++){
+            var $key = $keys[j];
             var $cell = $row.insertCell(j);
-            $cell.innertext = $d[$value];
+            $cell.innerText = $record[$key];
         }
     }
 }
