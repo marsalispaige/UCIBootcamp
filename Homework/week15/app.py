@@ -14,8 +14,9 @@ def index():
 
 @app.route('/names')
 def names():
-    sampleName = list(bbSamplesdf)
-    return jsonify(sampleName)
+    #sampleName = list(bbSamplesdf)
+    sampleName = bbSamplesdf[bbSamplesdf.columns[1:len(bbSamplesdf.columns)]]
+    return jsonify(list(sampleName))
 
 @app.route('/otu')
 def otu():
@@ -30,7 +31,8 @@ def sample(sample):
     sampleID = int(sample.split('_')[1])
     sampleRecord = bbMetadf.loc[bbMetadf['SAMPLEID'] == sampleID]
     sampleRecordDict = sampleRecord[['AGE','BBTYPE','ETHNICITY','GENDER','LOCATION','SAMPLEID']].to_dict('records')
-    return jsonify(sampleRecordDict)
+    print(sampleRecordDict)
+    return jsonify(sampleRecordDict[0])
 
 @app.route('/wfreq/<sample>')
 def wfreq(sample):

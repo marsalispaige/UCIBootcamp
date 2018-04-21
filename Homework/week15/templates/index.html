@@ -1,18 +1,166 @@
-<!DOCHTML>
+<!DOCHTML html>
 <html>
     <head>
         <meta charset="utf-8">  
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
 
     <body>
         <div class='container-fluid'>
-                
+            <nav class="navbar navbar-default">
+                <div clas="container-fluid">
+                    <div class="navbar-header">
+                        <a href="#" class="navbar-brand">Samples</a>
+                    </div>
+                </div>
+            </nav>
+        
+
+        <div class="jumbotron text-center">
+            <h1>Belly Button Biodiversity Data</h1>
         </div>
-        <script src="js/data.js"></script>
-        <script src="js/app.js"></script>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="form-group">
+                    <label for="sel1">Select Sample:</label>
+                    <select class="form-control" id="sel1" onchange="optionChanged(this.value)"></select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3>Metadata</h3>
+                </div>
+                <div class="panel-body" id="metadata-info">
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6" id="pieChart">
+
+            </div>
+            <div class="col-lg-6" id="gaugeChart">
+
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-lg-12" id="bubbleChart">
+
+            </div>
+        </div>
+
+
+        </div>
+        <script>
+
+            
+            function retrieveOptions() {
+                var $selectElm = document.getElementById("sel1");
+
+
+                Plotly.d3.json('/names', function(error,sampleID){
+                    for (var i = 0; i < sampleID.length; i++){
+                        console.log(sampleID[i]);
+                        var newOption = document.createElement('option');
+                        newOption.text = sampleID[i];
+                        newOption.value = sampleID[i];
+                        console.log(newOption);
+                        $selectElm.append(newOption);
+                    }
+                })
+            }
+            
+            function optionChanged(newSample){
+                dataRetrieval(newSample, chartBuilder);
+            }
+
+
+            function dataRetrieval(sample, callback) {
+                Plotly.d3.json(`/samples/${sample}`, function(error, sampleData){
+                    if (error) return console.warn(error);
+                     Plotly.d3.json('/otu', function(error, otuData){
+                         if (error) return console.warn(error);
+                         console.log('Data Retrieval Run');
+                         console.log('Data Retrieval Run:sampleData');
+                         console.log(sampleData);
+                         console.log('Data Retrieval Run:otuData');
+                         console.log(otuData)
+                         callback(sampleData, otuData);
+                     });
+                });
+
+                Plotly.d3.json(`/metadata/${sample}`, function(error, metaData){
+                    if (error) return console.warn(error);
+                        metaRetrieval(metaData)
+                    
+                })
+            };
+            function chartBuilder(sampleData, otuData){
+                console.log("chartBuilder");
+                var label = sampleData[0]['otu_id'].map(function(id){
+                    return otuData[id]
+                });
+                
+                //bubble chart
+                var layout ={
+                    xaxis:{title:'Otu Id'},
+
+                };
+                var data = {
+                    x: sampleData[0]['out_id'],
+                    y: sampleData[0]['sample_values'],
+                    mode: 'markers',
+                    marker: {
+                        size: sampleData[0]['sample_values'],
+                        color: sampleData[0]['otu_id'],
+                    }
+                };
+                var chart = document.getElementById('bubbleChart');
+                Plotly.plot(chart, data, layout);
+
+                //pie chart
+                var pData = {
+                    values:sampleData[0]['sample_values'].slice(0,10),
+                    labels: sampleData[0]['otu_id'].slice(0,10),
+                    type:'pie'
+                }
+
+                var pChart = document.getElementById('pieChart');
+                Plotly.plot(pChart, pData);
+
+                };
+            
+
+
+            function metaRetrieval(metaData){
+                var $metaPlace = document.getElementById("metadata-info");
+                //$metaPlace.innerHTML = "";
+                for(var x in metaData){
+                    entry = document.createElement('h2') ;
+                    entrytext = document.createTextNode(`${x}:${metaData[x]}`);
+                    console.log('MetaData');
+                    console.log(`${x}:${metaData[x]}`);
+                    entry.append(entrytext);
+                    $metaPlace.appendChild(entry);
+               }
+
+            }
+
+
+
+            //kick-off
+            retrieveOptions();
+        
+        </script>
 
 
     </body>
